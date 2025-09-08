@@ -15,11 +15,16 @@ st.title("智慧交通影像分析與風險評估系統")
 st.write("這是一個基於電腦視覺與AI演算法的交通影像分析專案原型。")
 st.write("---")
 
-# --- 數據載入 (*** 路徑已修正 ***) ---
-# 因為 app.py 在 src/ 裡面，所以要先用 '..' 回到上一層
-TRACKING_CSV_PATH = os.path.join('..', 'output', 'tracking_results.csv')
-CONFLICT_CSV_PATH = os.path.join('..', 'output', 'unique_conflict_summary.csv')
-VIDEO_PATH = os.path.join('..', 'data', 'raw', '2021.12.17 新竹市建功人行天橋 朝東俯拍夜間車流 [OD07_FhpM6Q].mp4')
+# --- 數據載入 (使用相對於本腳本的絕對路徑，確保雲端部署成功) ---
+# 取得此腳本檔案 (app.py) 所在的目錄 (也就是 src/ 目錄)
+SCRIPT_DIR = os.path.dirname(os.path.realpath(__file__))
+# 取得專案根目錄 (SCRIPT_DIR 的上一層)
+PROJECT_ROOT = os.path.realpath(os.path.join(SCRIPT_DIR, '..'))
+
+# 從專案根目錄建立指向資料檔的絕對路徑
+TRACKING_CSV_PATH = os.path.join(PROJECT_ROOT, 'output', 'tracking_results.csv')
+CONFLICT_CSV_PATH = os.path.join(PROJECT_ROOT, 'output', 'unique_conflict_summary.csv')
+VIDEO_PATH = os.path.join(PROJECT_ROOT, 'data', 'raw', '2021.12.17 新竹市建功人行天橋 朝東俯拍夜間車流 [OD07_FhpM6Q].mp4')
 
 @st.cache_data
 def load_data(tracking_path, conflict_path):
