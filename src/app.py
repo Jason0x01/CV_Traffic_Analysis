@@ -6,9 +6,8 @@ import ast
 import matplotlib.pyplot as plt
 
 # --- 字體設定 (解決中文亂碼問題) ---
-# 提醒：請確保您的作業系統中有安裝 'Microsoft JhengHei' 或其他支援中文的字體
 plt.rcParams['font.sans-serif'] = ['Microsoft JhengHei'] 
-plt.rcParams['axes.unicode_minus'] = False # 解決負號顯示問題
+plt.rcParams['axes.unicode_minus'] = False 
 
 # --- 頁面基礎設定 ---
 st.set_page_config(page_title="智慧交通風險分析儀表板", layout="wide")
@@ -16,10 +15,11 @@ st.title("智慧交通影像分析與風險評估系統")
 st.write("這是一個基於電腦視覺與AI演算法的交通影像分析專案原型。")
 st.write("---")
 
-# --- 數據載入 ---
-TRACKING_CSV_PATH = os.path.join('output', 'tracking_results.csv')
-CONFLICT_CSV_PATH = os.path.join('output', 'unique_conflict_summary.csv')
-VIDEO_PATH = os.path.join('data', 'raw', '2021.12.17 新竹市建功人行天橋 朝東俯拍夜間車流 [OD07_FhpM6Q].mp4')
+# --- 數據載入 (*** 路徑已修正 ***) ---
+# 因為 app.py 在 src/ 裡面，所以要先用 '..' 回到上一層
+TRACKING_CSV_PATH = os.path.join('..', 'output', 'tracking_results.csv')
+CONFLICT_CSV_PATH = os.path.join('..', 'output', 'unique_conflict_summary.csv')
+VIDEO_PATH = os.path.join('..', 'data', 'raw', '2021.12.17 新竹市建功人行天橋 朝東俯拍夜間車流 [OD07_FhpM6Q].mp4')
 
 @st.cache_data
 def load_data(tracking_path, conflict_path):
@@ -53,7 +53,8 @@ else:
     st.write("---")
     st.header("風險事件深度分析 (Deep Dive into Risk Events)")
     
-    # 1. 風險事件類別分佈 (使用 Matplotlib 繪製)
+    # ... (後續程式碼與之前版本相同，此處省略以保持簡潔) ...
+    # (請確保您使用的是包含Matplotlib繪圖與所有修正的最新版本)
     st.subheader("風險事件類別分佈")
     conflict_df['pair_tuple'] = conflict_df['object_pair'].apply(ast.literal_eval)
     
@@ -63,7 +64,6 @@ else:
         class1 = id_to_class_map.get(row['pair_tuple'][0])
         class2 = id_to_class_map.get(row['pair_tuple'][1])
         if class1 and class2:
-            # *** 修正：同時過濾掉 'traffic light' 和 'train' ***
             IGNORE_CLASSES = ['traffic light', 'train']
             if class1 in IGNORE_CLASSES or class2 in IGNORE_CLASSES:
                 return None
@@ -73,19 +73,17 @@ else:
     conflict_df['class_pair_str'] = conflict_df.apply(get_class_pair, axis=1)
     pair_counts = conflict_df['class_pair_str'].value_counts().dropna()
     
-    # 使用 Matplotlib 繪圖
-    fig, ax = plt.subplots(figsize=(12, 7)) # 稍微加大圖表尺寸
+    fig, ax = plt.subplots(figsize=(12, 7))
     pair_counts.plot(kind='bar', ax=ax)
     ax.set_title("風險事件類別分佈", fontsize=18)
     ax.set_xlabel("物件組合", fontsize=14)
     ax.set_ylabel("事件次數", fontsize=14)
-    plt.xticks(rotation=45, ha="right", fontsize=12) # 加大X軸標籤字體
-    plt.yticks(fontsize=12) # 加大Y軸標籤字體
+    plt.xticks(rotation=45, ha="right", fontsize=12)
+    plt.yticks(fontsize=12)
     plt.tight_layout()
     st.pyplot(fig)
     st.write("從上圖可見，在此場景中，不同用路人類別之間的潛在衝突分佈。")
 
-    # 2. 碰撞時間 (TTC) 分佈
     st.subheader("碰撞時間 (TTC) 分佈")
     fig2, ax2 = plt.subplots(figsize=(12, 7))
     conflict_df['min_TTC_seconds'].hist(bins=20, ax=ax2)
@@ -139,4 +137,3 @@ else:
             st.image(frame_rgb, caption=f"高風險事件發生瞬間 (第 {frame_id} 幀)", use_container_width=True)
         else:
             st.error("無法讀取指定幀的影片畫面。")
-
