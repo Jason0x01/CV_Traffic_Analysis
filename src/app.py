@@ -1,3 +1,9 @@
+# -*- coding: utf-8 -*-
+
+import streamlit as st
+import pandas as pd
+import os
+# ... (您剩餘的程式碼)
 import streamlit as st
 import pandas as pd
 import os
