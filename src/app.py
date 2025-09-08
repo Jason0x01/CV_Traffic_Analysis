@@ -12,7 +12,7 @@ import ast
 import matplotlib.pyplot as plt
 
 # --- 字體設定 (解決中文亂碼問題) ---
-plt.rcParams['font.sans-serif'] = ['Microsoft JhengHei'] 
+plt.rcParams['font.sans-serif'] = ['WenQuanYi Zen Hei']
 plt.rcParams['axes.unicode_minus'] = False 
 
 # --- 頁面基礎設定 ---
