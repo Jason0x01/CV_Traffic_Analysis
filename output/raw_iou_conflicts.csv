@@ -1,0 +1,3052 @@
+frame_of_detection,track_id_1,class_1,track_id_2,class_2,predicted_TTC_seconds
+2,1,car,13,car,0.1
+2,6,car,17,traffic light,1.3
+2,7,car,8,car,1.4000000000000001
+2,8,car,14,person,0.1
+2,9,person,13,car,0.1
+2,10,car,11,car,0.1
+2,16,person,20,motorcycle,0.1
+3,1,car,16,person,0.5
+3,6,car,17,traffic light,1.6
+3,8,car,14,person,0.1
+3,9,person,13,car,0.1
+3,9,person,16,person,1.4000000000000001
+3,15,car,17,traffic light,1.5
+4,1,car,16,person,0.4
+4,6,car,17,traffic light,1.8
+4,9,motorcycle,13,car,0.1
+4,15,car,17,traffic light,1.8
+5,1,car,16,person,0.30000000000000004
+5,1,car,20,motorcycle,0.4
+5,6,car,17,traffic light,1.9000000000000001
+5,15,car,17,traffic light,1.6
+6,1,car,16,person,0.30000000000000004
+6,1,car,20,motorcycle,0.30000000000000004
+6,3,car,8,car,0.1
+6,9,person,13,car,0.1
+7,1,car,16,person,0.30000000000000004
+7,2,car,4,car,1.8
+7,3,car,8,car,0.1
+7,4,car,11,car,1.9000000000000001
+7,4,car,18,car,1.2000000000000002
+7,4,car,21,traffic light,0.9
+7,7,car,20,car,1.8
+7,8,car,20,car,0.30000000000000004
+7,9,person,13,car,0.1
+7,9,person,20,car,1.2000000000000002
+7,16,person,20,car,0.1
+8,3,car,8,car,0.1
+8,4,car,18,car,1.4000000000000001
+8,8,car,9,person,2.0
+9,3,car,8,car,0.1
+9,6,car,17,traffic light,2.0
+9,7,car,20,car,1.0
+9,8,car,14,person,0.1
+10,3,car,8,car,0.1
+10,4,car,17,traffic light,1.3
+10,6,car,17,traffic light,1.6
+10,7,car,20,car,1.2000000000000002
+10,8,car,14,person,0.1
+10,15,car,26,car,1.0
+11,1,car,20,car,0.6000000000000001
+11,3,car,8,car,0.1
+11,4,car,17,traffic light,1.0
+11,6,car,17,traffic light,1.5
+11,8,car,14,person,0.1
+11,9,person,20,car,1.4000000000000001
+12,1,car,20,car,0.30000000000000004
+12,3,car,8,car,0.1
+12,6,car,17,traffic light,1.5
+12,8,car,14,person,0.1
+12,9,person,20,car,1.3
+12,18,car,33,traffic light,0.1
+13,1,car,20,person,0.1
+13,3,car,8,car,0.1
+13,4,car,10,car,1.5
+13,4,car,11,car,1.4000000000000001
+13,6,car,17,traffic light,1.7000000000000002
+13,8,car,14,person,0.1
+13,18,car,33,traffic light,0.1
+14,1,car,20,motorcycle,0.1
+14,2,car,12,person,0.1
+14,2,car,18,car,0.1
+14,4,car,10,car,1.7000000000000002
+14,5,car,19,car,0.1
+14,6,car,17,traffic light,2.0
+14,18,car,33,traffic light,0.1
+15,1,car,3,car,0.1
+15,2,car,18,car,0.1
+15,4,car,10,car,2.0
+15,18,car,33,traffic light,0.1
+16,1,car,3,car,0.1
+16,2,car,18,car,0.1
+16,4,car,10,car,2.0
+16,5,car,18,car,0.1
+16,6,car,26,car,1.9000000000000001
+16,18,car,33,traffic light,0.1
+17,2,car,18,car,0.1
+17,5,car,18,car,0.1
+18,2,car,11,car,0.1
+19,1,car,20,person,0.1
+19,2,car,11,car,0.1
+19,5,car,18,car,0.1
+19,10,car,11,car,0.1
+19,18,car,19,car,1.6
+20,1,car,20,person,0.1
+20,2,car,5,car,1.3
+20,2,car,11,car,0.1
+20,5,car,18,car,0.1
+20,9,person,20,person,1.2000000000000002
+20,10,car,11,car,0.1
+21,1,car,20,person,0.1
+21,2,car,5,car,1.8
+21,2,car,11,car,0.1
+21,4,car,17,traffic light,1.6
+21,5,car,18,car,0.1
+21,9,person,20,person,1.0
+21,10,car,11,car,0.1
+22,2,car,11,car,0.1
+22,4,car,17,traffic light,2.0
+22,9,person,13,car,0.1
+22,10,car,11,car,0.1
+23,6,car,17,traffic light,1.9000000000000001
+23,9,person,13,car,0.1
+24,1,car,20,person,0.1
+24,4,car,10,car,1.7000000000000002
+24,5,car,19,car,0.1
+24,9,person,13,car,0.1
+24,18,car,33,traffic light,0.1
+25,3,car,8,car,1.5
+25,7,car,8,car,1.8
+25,9,person,13,car,0.1
+26,1,car,20,person,0.1
+26,3,car,8,car,1.7000000000000002
+26,5,car,19,car,0.1
+26,9,person,13,car,0.1
+26,18,car,33,traffic light,0.1
+27,1,car,20,person,0.1
+27,2,car,11,car,0.1
+27,3,car,8,car,0.8
+27,3,car,48,motorcycle,0.6000000000000001
+27,4,car,17,traffic light,1.7000000000000002
+27,5,car,19,car,0.1
+27,9,person,13,car,0.1
+28,1,car,20,person,0.1
+28,2,car,18,car,0.1
+28,3,car,8,car,0.9
+28,3,car,48,motorcycle,1.5
+28,4,car,17,traffic light,1.8
+28,5,car,18,car,0.1
+28,5,car,19,car,0.1
+28,9,person,13,car,0.1
+29,1,car,3,car,0.1
+29,2,car,12,person,0.1
+29,3,car,8,car,0.9
+29,3,car,48,motorcycle,0.5
+29,4,car,17,traffic light,2.0
+29,5,car,19,car,0.1
+29,6,car,17,traffic light,1.5
+29,10,car,11,car,0.1
+29,18,car,33,traffic light,0.1
+30,3,car,48,motorcycle,0.4
+30,4,car,17,traffic light,2.0
+30,9,person,13,car,0.1
+31,2,car,18,car,0.1
+31,4,car,17,traffic light,1.8
+31,8,car,48,car,0.1
+31,9,person,13,car,0.1
+31,18,car,33,traffic light,0.1
+32,2,car,18,car,0.1
+32,5,car,18,car,0.1
+32,6,car,17,traffic light,1.8
+32,8,car,48,car,0.1
+32,9,person,13,car,0.1
+32,11,car,18,car,1.1
+32,18,car,33,traffic light,0.1
+33,1,car,3,car,0.1
+33,1,car,20,person,0.1
+33,2,car,11,car,0.1
+33,2,car,18,car,0.1
+33,8,car,48,car,0.1
+33,10,car,11,car,0.1
+33,13,car,20,person,1.7000000000000002
+33,13,car,42,car,0.1
+33,17,traffic light,58,car,1.5
+33,18,car,33,traffic light,0.1
+34,1,car,3,car,0.1
+34,1,car,20,person,0.1
+34,2,car,18,car,0.1
+34,5,car,18,car,0.1
+34,9,person,20,person,1.2000000000000002
+34,13,car,20,person,1.2000000000000002
+34,17,traffic light,58,car,1.5
+34,33,traffic light,62,car,2.0
+35,2,car,12,person,0.1
+35,2,car,18,car,0.1
+35,5,car,18,car,0.1
+35,8,car,12,person,1.3
+35,12,person,48,car,1.2000000000000002
+35,13,car,20,person,1.5
+35,17,traffic light,58,car,1.5
+35,18,car,33,traffic light,0.1
+35,33,traffic light,62,car,1.9000000000000001
+36,1,car,3,car,0.1
+36,2,car,11,car,0.1
+36,8,car,48,car,0.1
+36,12,person,48,car,1.0
+36,33,traffic light,62,car,1.8
+37,1,car,3,car,0.1
+37,2,car,11,car,0.1
+37,8,car,48,car,0.1
+37,9,person,13,car,0.1
+37,10,car,11,car,0.1
+37,33,traffic light,62,car,1.8
+38,1,car,20,person,0.1
+38,2,car,11,car,0.1
+38,6,car,17,traffic light,2.0
+38,8,car,48,car,0.1
+38,10,car,11,car,0.1
+39,1,car,20,person,0.1
+39,4,car,17,traffic light,1.5
+39,62,car,68,car,0.1
+40,1,car,20,person,0.1
+40,2,car,11,car,0.1
+40,2,car,18,car,0.1
+40,4,car,17,traffic light,1.5
+40,62,car,68,car,0.1
+41,2,car,11,car,0.1
+41,2,car,12,person,0.1
+41,2,car,18,car,0.1
+41,4,car,17,traffic light,2.0
+41,10,car,11,car,0.1
+42,2,car,11,car,0.1
+42,2,car,12,person,0.1
+42,2,car,18,car,0.1
+42,3,car,8,car,0.6000000000000001
+42,5,car,62,car,1.3
+42,6,car,17,traffic light,1.8
+42,9,person,13,car,0.1
+42,11,car,62,car,1.5
+42,12,person,62,car,1.8
+42,17,traffic light,68,car,1.6
+42,18,car,62,car,1.0
+42,33,traffic light,62,car,0.8
+43,1,car,20,person,0.1
+43,2,car,12,person,0.1
+43,2,car,18,car,0.1
+43,3,car,8,car,1.0
+43,8,car,40,person,0.30000000000000004
+43,9,person,13,car,0.1
+43,12,person,62,car,1.6
+43,17,traffic light,68,car,2.0
+43,18,car,33,traffic light,0.1
+43,18,car,62,car,0.9
+43,33,traffic light,62,car,0.7000000000000001
+43,40,person,62,car,2.0
+44,1,car,20,person,0.1
+44,2,car,11,car,0.1
+44,2,car,62,car,1.0
+44,3,car,62,car,1.7000000000000002
+44,5,car,62,car,1.0
+44,7,car,8,car,1.9000000000000001
+44,8,car,14,person,0.2
+44,8,car,40,person,0.2
+44,10,car,11,car,0.1
+44,10,car,62,car,1.6
+44,11,car,62,car,1.4000000000000001
+44,14,person,62,car,2.0
+44,18,car,62,car,0.8
+44,33,traffic light,62,car,0.6000000000000001
+44,40,person,62,car,1.9000000000000001
+44,62,car,75,traffic light,0.6000000000000001
+45,1,car,20,person,0.1
+45,2,car,12,person,0.1
+45,2,car,62,car,0.9
+45,3,car,62,car,1.6
+45,5,car,62,car,1.0
+45,8,car,14,person,0.2
+45,8,car,40,person,0.5
+45,9,person,13,car,0.1
+45,10,car,62,car,1.2000000000000002
+45,11,car,62,car,1.0
+45,14,person,62,car,1.9000000000000001
+45,17,traffic light,68,car,1.4000000000000001
+45,18,car,33,traffic light,0.1
+45,18,car,62,car,0.7000000000000001
+45,33,traffic light,62,car,0.6000000000000001
+45,40,person,62,car,1.8
+45,62,car,75,traffic light,0.6000000000000001
+46,2,car,62,car,1.0
+46,5,car,62,car,1.0
+46,6,car,17,traffic light,1.8
+46,8,car,14,person,0.30000000000000004
+46,8,car,40,person,0.8
+46,10,car,62,car,1.0
+46,11,car,62,car,1.0
+46,17,traffic light,68,car,1.3
+46,18,car,62,car,0.8
+46,33,traffic light,62,car,0.6000000000000001
+46,62,car,75,traffic light,0.6000000000000001
+47,2,car,62,car,0.9
+47,5,car,18,car,0.1
+47,8,car,14,person,1.8
+47,8,car,40,person,1.5
+47,10,car,11,car,0.1
+47,10,car,62,car,1.0
+47,17,traffic light,62,car,1.1
+47,17,traffic light,68,car,1.9000000000000001
+47,18,car,62,car,0.7000000000000001
+47,33,traffic light,62,car,0.6000000000000001
+47,62,car,75,traffic light,0.6000000000000001
+48,2,car,11,car,0.1
+48,2,car,62,car,1.0
+48,6,car,17,traffic light,1.6
+48,17,traffic light,62,car,1.1
+48,18,car,33,traffic light,0.1
+48,18,car,62,car,0.8
+48,33,traffic light,75,traffic light,0.1
+48,62,car,75,traffic light,0.6000000000000001
+49,2,car,62,car,1.0
+49,6,car,17,traffic light,1.9000000000000001
+49,17,traffic light,62,car,1.2000000000000002
+49,18,car,62,car,0.8
+49,33,traffic light,62,car,0.6000000000000001
+49,62,car,75,traffic light,0.6000000000000001
+49,68,car,81,traffic light,0.9
+50,1,car,3,car,0.1
+50,2,car,62,car,1.2000000000000002
+50,8,car,80,person,0.1
+50,11,car,62,car,1.2000000000000002
+50,17,traffic light,62,car,1.3
+50,17,traffic light,68,car,1.6
+50,18,car,62,car,0.9
+50,33,traffic light,62,car,0.8
+51,1,car,3,car,0.1
+51,2,car,18,car,0.1
+51,3,car,8,car,2.0
+51,3,car,80,person,0.1
+51,5,car,18,car,0.1
+51,8,car,80,person,0.1
+51,10,car,62,car,1.3
+51,11,car,62,car,1.2000000000000002
+51,17,traffic light,62,car,1.2000000000000002
+51,18,car,33,traffic light,0.1
+51,18,car,62,car,0.9
+51,18,car,75,traffic light,0.1
+51,33,traffic light,62,car,0.8
+51,33,traffic light,75,traffic light,0.1
+51,68,car,81,traffic light,1.1
+52,1,car,20,person,0.1
+52,2,car,12,person,0.1
+52,2,car,68,car,1.6
+52,5,car,18,car,0.1
+52,10,car,62,car,1.4000000000000001
+52,10,car,68,car,1.8
+52,11,car,62,car,1.2000000000000002
+52,11,car,68,car,1.6
+52,18,car,62,car,0.9
+52,18,car,68,car,1.4000000000000001
+53,1,car,20,person,0.1
+53,2,car,10,car,1.9000000000000001
+53,2,car,12,person,0.1
+53,3,car,12,person,2.0
+53,5,car,18,car,0.1
+53,10,car,11,car,0.1
+53,10,car,62,car,1.3
+53,11,car,62,car,1.2000000000000002
+54,1,car,20,person,0.1
+54,2,car,12,person,0.1
+54,2,car,18,car,0.1
+54,3,car,80,person,0.1
+54,5,car,18,car,0.1
+54,8,car,80,person,0.1
+54,9,person,80,person,1.8
+54,10,car,11,car,0.1
+54,11,car,62,car,1.2000000000000002
+54,18,car,62,car,0.9
+54,33,traffic light,75,traffic light,0.1
+55,2,car,12,person,0.1
+55,2,car,95,car,2.0
+55,3,car,80,person,0.1
+55,5,car,18,car,0.1
+55,8,car,80,person,0.1
+55,10,car,11,car,0.1
+55,11,car,62,car,1.2000000000000002
+55,11,car,95,car,2.0
+55,18,car,33,traffic light,0.1
+55,18,car,75,traffic light,0.1
+55,18,car,95,car,1.7000000000000002
+55,33,traffic light,62,car,0.7000000000000001
+55,33,traffic light,95,car,1.5
+56,2,car,12,person,0.1
+56,3,car,80,person,0.1
+56,10,car,11,car,0.1
+56,10,car,68,car,1.4000000000000001
+56,17,traffic light,62,car,1.2000000000000002
+56,17,traffic light,68,car,1.3
+56,18,car,62,car,0.9
+56,33,traffic light,62,car,0.7000000000000001
+57,1,car,3,car,0.1
+57,1,car,20,person,0.1
+57,2,car,11,car,0.1
+57,2,car,12,person,0.1
+57,2,car,18,car,0.1
+57,2,car,95,car,1.7000000000000002
+57,5,car,18,car,0.1
+57,8,car,80,person,0.1
+57,10,car,62,car,1.4000000000000001
+57,10,car,68,car,1.4000000000000001
+57,10,car,95,car,1.9000000000000001
+57,11,car,95,car,1.9000000000000001
+57,17,traffic light,62,car,1.3
+57,17,traffic light,68,car,1.4000000000000001
+57,18,car,33,traffic light,0.1
+57,33,traffic light,62,car,0.7000000000000001
+57,33,traffic light,75,traffic light,0.1
+58,1,car,3,car,0.1
+58,1,car,20,person,0.1
+58,2,car,12,person,0.1
+58,2,car,18,car,0.1
+58,5,car,18,car,0.1
+58,10,car,62,car,1.4000000000000001
+58,11,car,62,car,1.3
+58,17,traffic light,62,car,1.4000000000000001
+58,17,traffic light,68,car,1.4000000000000001
+58,17,traffic light,95,car,1.4000000000000001
+58,18,car,33,traffic light,0.1
+58,33,traffic light,62,car,0.7000000000000001
+59,2,car,12,person,0.1
+59,2,car,18,car,0.1
+59,3,car,8,car,1.6
+59,5,car,18,car,0.1
+59,8,car,12,person,1.9000000000000001
+59,10,car,11,car,0.1
+59,17,traffic light,62,car,1.4000000000000001
+59,17,traffic light,68,car,1.5
+59,17,traffic light,95,car,1.4000000000000001
+60,2,car,11,car,0.1
+60,3,car,12,person,1.9000000000000001
+60,3,car,80,person,0.1
+60,5,car,18,car,0.1
+60,10,car,62,car,1.4000000000000001
+60,17,traffic light,62,car,1.3
+60,17,traffic light,68,car,1.4000000000000001
+60,17,traffic light,95,car,1.2000000000000002
+61,1,car,3,car,0.1
+61,2,car,18,car,0.1
+61,3,car,12,person,0.8
+61,3,car,80,person,0.1
+61,5,car,18,car,0.1
+61,8,car,12,person,1.2000000000000002
+61,8,car,80,person,0.1
+61,17,traffic light,62,car,1.2000000000000002
+61,17,traffic light,68,car,1.8
+61,17,traffic light,95,car,1.6
+62,2,car,18,car,0.1
+62,3,car,12,person,1.4000000000000001
+62,3,car,80,person,0.1
+62,5,car,18,car,0.1
+62,8,car,80,person,0.1
+62,11,car,18,car,1.7000000000000002
+62,17,traffic light,62,car,1.3
+62,17,traffic light,68,car,1.5
+62,17,traffic light,95,car,1.7000000000000002
+63,2,car,18,car,0.1
+63,3,car,80,person,0.1
+63,11,car,18,car,1.2000000000000002
+63,17,traffic light,62,car,1.4000000000000001
+63,17,traffic light,68,car,1.9000000000000001
+64,3,car,80,person,0.1
+64,17,traffic light,68,car,2.0
+64,33,traffic light,75,traffic light,0.1
+65,10,car,62,car,1.6
+65,17,traffic light,62,car,1.6
+66,1,car,20,person,0.1
+66,2,car,10,car,1.9000000000000001
+66,2,car,11,car,0.1
+66,4,car,62,car,0.6000000000000001
+66,4,car,75,traffic light,0.7000000000000001
+66,10,car,68,car,2.0
+66,11,car,68,car,1.9000000000000001
+66,17,traffic light,62,car,1.5
+66,33,traffic light,75,traffic light,0.1
+67,1,car,3,car,0.1
+67,1,car,20,person,0.1
+67,2,car,11,car,0.1
+67,10,car,11,car,0.1
+67,10,car,68,car,1.9000000000000001
+67,17,traffic light,62,car,1.5
+67,105,person,108,person,0.9
+68,1,car,3,car,0.1
+68,2,car,11,car,0.1
+68,8,car,80,person,0.1
+68,10,car,11,car,0.1
+68,17,traffic light,62,car,1.4000000000000001
+68,17,traffic light,68,car,1.4000000000000001
+68,17,traffic light,95,car,0.7000000000000001
+69,1,car,3,car,0.1
+69,2,car,11,car,0.1
+69,9,person,105,person,0.6000000000000001
+69,17,traffic light,62,car,1.5
+69,17,traffic light,68,car,1.4000000000000001
+69,17,traffic light,95,car,0.6000000000000001
+69,20,person,108,person,1.9000000000000001
+70,1,car,118,car,0.1
+70,9,person,118,car,0.1
+70,17,traffic light,62,car,1.5
+70,17,traffic light,68,car,1.3
+70,20,person,108,person,1.3
+70,108,person,118,car,0.1
+71,1,car,105,person,1.3
+71,1,car,118,car,0.1
+71,17,traffic light,68,car,1.5
+71,20,person,108,person,1.1
+71,108,person,118,car,0.1
+72,1,car,20,person,0.1
+72,1,car,105,person,1.3
+72,1,car,118,car,0.1
+72,2,car,11,car,0.1
+72,4,car,17,traffic light,2.0
+72,10,car,62,car,1.7000000000000002
+72,17,traffic light,68,car,1.6
+72,108,person,118,car,0.1
+73,1,car,20,person,0.1
+73,1,car,105,person,1.5
+73,2,car,10,car,2.0
+73,2,car,11,car,0.1
+73,7,car,8,car,1.0
+73,8,car,118,car,1.2000000000000002
+73,9,person,118,car,0.1
+73,17,traffic light,68,car,1.6
+73,20,person,118,car,0.1
+73,105,person,118,car,0.1
+74,1,car,20,person,0.1
+74,2,car,10,car,1.6
+74,2,car,11,car,0.1
+74,5,car,124,car,0.1
+74,7,car,8,car,0.6000000000000001
+74,8,car,118,car,1.3
+74,9,person,118,car,0.1
+74,10,car,124,car,1.4000000000000001
+74,11,car,124,car,0.2
+74,17,traffic light,62,car,1.6
+74,17,traffic light,68,car,1.5
+74,20,person,118,car,0.1
+75,1,car,20,person,0.1
+75,2,car,10,car,1.7000000000000002
+75,2,car,11,car,0.1
+75,3,car,8,car,1.0
+75,8,car,118,car,1.3
+75,9,person,118,car,0.1
+75,17,traffic light,62,car,1.5
+75,17,traffic light,68,car,1.7000000000000002
+75,20,person,118,car,0.1
+75,33,traffic light,124,car,0.1
+75,62,car,124,car,0.2
+76,1,car,3,car,0.1
+76,1,car,20,person,0.1
+76,1,car,118,car,0.1
+76,2,car,11,car,0.1
+76,2,car,124,car,0.1
+76,3,car,8,car,0.9
+76,7,car,8,car,1.2000000000000002
+76,7,car,125,car,0.1
+76,17,traffic light,62,car,1.4000000000000001
+76,17,traffic light,68,car,1.6
+76,33,traffic light,124,car,0.1
+76,62,car,124,car,0.2
+77,1,car,3,car,0.1
+77,1,car,118,car,0.1
+77,2,car,11,car,0.1
+77,3,car,8,car,0.9
+77,7,car,125,car,0.1
+77,10,car,11,car,0.1
+77,17,traffic light,62,car,1.4000000000000001
+77,17,traffic light,68,car,1.7000000000000002
+77,62,car,124,car,0.2
+78,1,car,118,car,0.1
+78,2,car,11,car,0.1
+78,2,car,124,car,0.1
+78,3,car,8,car,1.4000000000000001
+78,5,car,124,car,0.1
+78,7,car,125,car,0.1
+78,10,car,11,car,0.1
+78,17,traffic light,68,car,1.7000000000000002
+79,1,car,20,person,0.1
+79,1,car,118,car,0.1
+79,2,car,11,car,0.1
+79,2,car,124,car,0.1
+79,3,car,8,car,1.9000000000000001
+79,5,car,124,car,0.1
+79,7,car,125,car,0.1
+80,1,car,20,person,0.1
+80,1,car,118,car,0.1
+80,2,car,11,car,0.1
+80,2,car,124,car,0.1
+80,3,car,8,car,1.9000000000000001
+80,5,car,124,car,0.1
+80,7,car,125,car,0.1
+80,9,person,118,car,0.1
+80,17,traffic light,68,car,1.9000000000000001
+80,20,person,108,person,1.2000000000000002
+80,108,person,118,car,0.1
+81,1,car,20,person,0.1
+81,1,car,118,car,0.1
+81,2,car,11,car,0.1
+81,3,car,8,car,1.7000000000000002
+81,5,car,124,car,0.1
+81,7,car,126,person,0.1
+81,9,person,118,car,0.1
+81,17,traffic light,68,car,1.8
+81,33,traffic light,124,car,0.1
+81,62,car,124,car,0.1
+82,1,car,20,person,0.1
+82,1,car,118,car,0.1
+82,9,person,118,car,0.1
+82,17,traffic light,68,car,1.6
+82,33,traffic light,124,car,0.1
+82,62,car,124,car,0.1
+83,1,car,20,person,0.1
+83,1,car,118,car,0.1
+83,5,car,124,car,0.1
+83,9,person,118,car,0.1
+83,17,traffic light,68,car,1.8
+83,33,traffic light,124,car,0.1
+83,62,car,124,car,0.1
+84,1,car,3,car,0.1
+84,1,car,20,car,0.1
+84,1,car,118,car,0.1
+84,2,car,10,car,1.8
+84,2,car,11,car,0.1
+84,2,car,124,car,0.1
+84,9,person,118,car,0.1
+84,62,car,124,car,0.1
+85,1,car,3,car,0.2
+85,1,car,118,car,0.1
+85,2,car,11,car,0.1
+85,5,car,124,car,0.1
+85,10,car,11,car,0.1
+85,33,traffic light,124,car,0.1
+85,62,car,124,car,0.1
+86,2,car,11,car,0.1
+86,8,car,40,person,1.2000000000000002
+86,9,person,118,car,0.1
+86,10,car,11,car,0.1
+86,11,car,124,car,0.9
+86,17,traffic light,68,car,1.3
+86,33,traffic light,124,car,0.1
+86,62,car,124,car,0.1
+87,1,car,3,car,0.4
+87,2,car,11,car,0.1
+87,10,car,11,car,0.1
+87,17,traffic light,68,car,1.2000000000000002
+87,33,traffic light,124,car,0.1
+87,62,car,124,car,0.1
+88,1,car,3,car,0.1
+88,17,traffic light,68,car,1.5
+88,33,traffic light,124,car,0.1
+88,62,car,124,car,0.1
+89,1,car,3,car,0.1
+89,2,car,11,car,0.1
+89,5,car,124,car,0.1
+89,10,car,11,car,0.1
+89,17,traffic light,68,car,1.7000000000000002
+89,62,car,124,car,0.1
+90,2,car,11,car,0.1
+90,2,car,124,car,0.1
+90,5,car,124,car,0.1
+90,10,car,11,car,0.1
+90,33,traffic light,124,car,0.1
+91,1,car,3,car,0.1
+91,2,car,11,car,0.1
+91,2,car,124,car,0.1
+91,5,car,124,car,0.1
+91,7,car,8,car,1.3
+91,8,car,40,person,1.0
+91,10,car,11,car,0.1
+91,33,traffic light,124,car,0.1
+92,1,car,3,car,0.1
+92,2,car,10,car,2.0
+92,5,car,124,car,0.1
+92,7,car,8,car,1.3
+92,10,car,11,car,0.1
+92,33,traffic light,124,car,0.1
+93,1,car,3,car,0.1
+93,1,car,20,car,0.1
+93,2,car,11,car,0.1
+93,11,car,124,car,0.5
+93,17,traffic light,68,car,1.7000000000000002
+93,62,car,124,car,0.1
+94,1,car,3,car,0.1
+94,1,car,20,car,0.1
+94,2,car,11,car,0.1
+94,2,car,124,car,0.1
+94,5,car,124,car,0.1
+94,11,car,124,car,0.4
+94,33,traffic light,124,car,0.1
+94,62,car,124,car,0.1
+95,1,car,3,car,0.1
+95,1,car,20,car,0.1
+95,2,car,11,car,0.1
+95,5,car,124,car,0.1
+95,11,car,124,car,0.30000000000000004
+95,33,traffic light,124,car,0.1
+95,62,car,124,car,0.1
+96,1,car,3,car,0.1
+96,1,car,20,car,0.1
+96,2,car,11,car,0.1
+96,5,car,124,car,0.1
+96,10,car,11,car,0.1
+96,33,traffic light,124,car,0.1
+97,2,car,11,car,0.1
+97,5,car,124,car,0.1
+97,33,traffic light,124,car,0.1
+98,1,car,3,car,0.1
+98,2,car,11,car,0.1
+98,5,car,124,car,0.1
+98,33,traffic light,124,car,0.1
+99,1,car,3,car,0.1
+99,2,car,8,car,1.4000000000000001
+99,2,car,11,car,0.1
+99,2,car,124,car,0.1
+99,17,traffic light,68,car,1.1
+100,1,car,141,person,0.1
+100,2,car,8,car,1.3
+100,2,car,11,car,0.1
+100,2,car,124,car,0.1
+100,17,traffic light,68,car,0.9
+101,1,car,108,person,0.7000000000000001
+101,2,car,11,car,0.1
+101,2,car,124,car,0.1
+101,10,car,11,car,0.1
+101,17,traffic light,68,car,0.9
+101,20,person,108,person,0.1
+102,1,car,108,person,0.9
+102,2,car,11,car,0.1
+102,5,car,124,car,0.1
+102,11,car,124,car,0.30000000000000004
+102,17,traffic light,68,car,1.7000000000000002
+102,20,person,108,person,0.1
+103,1,car,108,person,1.2000000000000002
+103,2,car,10,car,1.8
+103,2,car,11,car,0.1
+103,5,car,124,car,0.1
+103,10,car,124,car,1.5
+103,11,car,124,car,0.2
+103,20,person,108,person,0.1
+104,2,car,124,car,0.1
+104,11,car,124,car,0.1
+104,124,car,140,car,1.5
+105,1,car,3,car,0.1
+105,2,car,124,car,0.1
+105,3,car,8,car,0.5
+105,11,car,124,car,0.2
+105,33,traffic light,124,car,0.1
+105,124,car,140,car,1.8
+106,1,car,3,car,0.1
+106,2,car,124,car,0.1
+106,3,car,8,car,0.7000000000000001
+106,5,car,124,car,0.1
+106,11,car,124,car,0.5
+106,33,traffic light,124,car,0.1
+106,124,car,140,car,1.9000000000000001
+106,124,car,154,car,1.2000000000000002
+107,1,car,20,car,0.1
+107,2,car,11,car,0.1
+107,2,car,154,car,1.9000000000000001
+108,1,car,3,car,0.1
+108,2,car,154,car,1.8
+108,7,car,143,person,0.1
+109,1,car,20,car,0.1
+109,2,car,154,car,1.7000000000000002
+109,10,car,11,car,0.1
+110,2,car,124,car,0.1
+110,10,car,11,car,0.1
+110,11,car,124,car,0.2
+110,33,traffic light,124,car,0.1
+110,33,traffic light,154,car,1.1
+111,2,car,124,car,0.1
+111,5,car,154,car,1.5
+111,10,car,11,car,0.1
+111,11,car,124,car,0.1
+111,33,traffic light,154,car,1.0
+111,124,car,140,car,1.6
+111,124,car,154,car,0.8
+112,2,car,124,car,0.1
+112,5,car,154,car,1.4000000000000001
+112,11,car,124,car,0.1
+112,17,traffic light,68,car,1.9000000000000001
+112,124,car,140,car,1.1
+112,124,car,154,car,0.9
+113,1,car,108,person,2.0
+113,2,car,124,car,0.1
+113,5,car,154,car,1.5
+113,17,traffic light,68,car,1.8
+113,124,car,140,car,1.1
+113,124,car,154,car,0.8
+114,1,car,108,person,1.1
+114,2,car,11,car,0.1
+114,2,car,124,car,0.1
+114,10,car,11,car,0.1
+114,11,car,154,car,1.8
+114,17,traffic light,68,car,1.9000000000000001
+114,124,car,140,car,1.7000000000000002
+114,124,car,154,car,0.7000000000000001
+115,2,car,11,car,0.1
+115,5,car,154,car,1.6
+115,7,car,143,person,0.1
+115,10,car,11,car,0.1
+115,11,car,154,car,1.5
+116,2,car,11,car,0.1
+116,5,car,154,car,1.5
+116,7,car,143,person,0.1
+116,10,car,11,car,0.1
+116,11,car,154,car,1.4000000000000001
+117,2,car,11,car,0.1
+117,8,car,171,car,1.4000000000000001
+117,10,car,11,car,0.1
+117,81,traffic light,140,car,0.8
+118,2,car,11,car,0.1
+118,5,car,171,car,1.0
+118,8,car,171,car,1.5
+118,10,car,171,car,1.1
+118,11,car,171,car,0.9
+118,40,person,171,car,1.7000000000000002
+118,81,traffic light,140,car,0.5
+119,2,car,171,car,0.9
+119,10,car,171,car,1.0
+119,40,person,171,car,1.8
+119,40,person,179,car,1.8
+119,81,traffic light,140,car,0.6000000000000001
+120,1,car,108,person,1.5
+120,2,car,171,car,1.0
+120,10,car,171,car,1.1
+120,17,traffic light,171,car,1.1
+120,40,person,179,car,1.9000000000000001
+120,81,traffic light,140,car,0.7000000000000001
+121,1,car,108,person,1.2000000000000002
+121,2,car,171,car,1.0
+121,10,car,171,car,1.1
+121,17,traffic light,171,car,1.1
+121,40,person,179,car,1.7000000000000002
+121,81,car,140,car,0.9
+122,1,car,108,person,1.3
+122,2,car,171,car,1.0
+122,9,person,108,person,1.7000000000000002
+122,10,car,171,car,1.1
+122,17,traffic light,140,car,1.4000000000000001
+122,40,person,179,car,1.8
+122,81,traffic light,140,car,0.7000000000000001
+122,171,car,180,car,1.3
+123,10,car,171,car,1.1
+123,17,traffic light,62,car,1.7000000000000002
+123,171,car,180,car,1.4000000000000001
+124,10,car,171,car,1.2000000000000002
+125,140,car,185,car,0.7000000000000001
+125,171,car,185,car,0.4
+126,8,car,179,car,1.2000000000000002
+127,8,car,179,car,0.8
+127,171,car,185,car,0.4
+128,1,car,3,car,0.1
+128,2,car,8,car,1.6
+128,3,car,179,car,1.7000000000000002
+128,8,car,179,car,0.7000000000000001
+128,10,car,11,car,0.1
+129,1,car,3,car,0.1
+129,3,car,8,car,0.6000000000000001
+129,10,car,11,car,0.1
+130,1,car,3,car,0.1
+130,1,car,192,person,0.1
+130,9,person,192,person,1.5
+131,9,person,192,person,1.3
+131,9,person,195,car,0.1
+132,1,car,195,car,0.1
+132,3,car,195,car,0.4
+132,5,car,193,car,0.1
+132,8,car,40,person,2.0
+132,10,car,171,car,1.3
+132,11,car,171,car,1.1
+132,171,car,180,car,1.5
+133,1,car,197,person,0.5
+133,2,car,11,car,0.1
+133,3,car,197,person,1.2000000000000002
+133,5,car,193,car,0.1
+133,8,car,40,person,2.0
+133,9,person,197,person,0.1
+133,10,car,11,car,0.1
+133,11,car,171,car,1.2000000000000002
+133,140,car,185,car,0.7000000000000001
+133,171,car,185,car,0.30000000000000004
+133,192,person,197,person,0.30000000000000004
+133,195,car,197,person,0.2
+133,196,person,197,person,0.1
+134,1,car,197,person,0.7000000000000001
+134,3,car,197,person,0.9
+134,5,car,197,person,1.7000000000000002
+134,9,person,197,person,0.1
+134,14,person,179,car,2.0
+134,40,person,179,car,1.6
+134,140,car,185,car,0.8
+134,171,car,185,car,0.4
+134,192,person,197,person,0.2
+134,195,car,197,person,0.1
+134,196,person,197,person,0.1
+135,2,car,11,car,0.1
+135,9,person,195,car,0.1
+135,10,car,11,car,0.1
+135,14,person,179,car,1.4000000000000001
+135,40,person,179,car,1.0
+135,171,car,185,car,0.4
+135,192,person,195,car,0.1
+136,1,car,192,person,0.1
+136,1,car,195,car,0.1
+136,2,car,11,car,0.1
+136,3,car,195,car,1.2000000000000002
+136,14,person,179,car,1.5
+136,40,person,179,car,1.0
+136,140,car,185,car,0.8
+136,171,car,185,car,0.4
+137,1,car,195,car,0.1
+137,3,car,195,car,0.4
+137,10,car,171,car,1.4000000000000001
+138,1,car,3,car,0.1
+138,1,car,124,car,1.6
+138,1,car,192,car,0.1
+138,1,car,195,car,0.1
+138,9,person,192,car,0.1
+138,9,person,195,car,0.1
+138,9,person,196,person,0.1
+138,10,car,171,car,1.5
+139,2,car,11,car,0.1
+139,2,car,179,car,1.4000000000000001
+139,7,car,143,person,0.1
+139,8,car,40,person,1.2000000000000002
+139,9,person,196,person,0.1
+140,1,car,124,car,2.0
+140,2,car,124,car,0.1
+140,2,car,179,car,1.9000000000000001
+140,2,car,193,car,0.1
+140,3,car,8,car,1.5
+140,7,car,143,person,0.1
+140,8,car,124,car,1.3
+140,179,car,180,car,0.9
+141,3,car,8,car,1.5
+142,40,person,179,car,1.1
+143,3,car,5,car,2.0
+143,5,car,193,car,0.1
+143,11,car,193,car,1.5
+143,17,traffic light,171,car,1.5
+143,40,person,179,car,0.6000000000000001
+144,2,car,193,car,0.1
+144,3,car,5,car,1.5
+144,5,car,193,car,0.1
+144,9,person,212,motorcycle,0.6000000000000001
+144,10,car,11,car,0.1
+144,10,car,171,car,1.6
+144,40,person,179,car,0.8
+144,196,person,212,motorcycle,0.1
+145,2,car,193,car,0.1
+145,5,car,193,car,0.1
+145,9,person,212,motorcycle,0.8
+145,10,car,11,car,0.1
+145,10,car,140,car,1.6
+145,10,car,171,car,1.5
+145,11,car,124,car,1.0
+145,11,car,171,car,1.6
+145,17,traffic light,140,car,1.4000000000000001
+145,17,traffic light,199,car,1.3
+145,40,person,179,car,1.1
+145,124,car,193,car,0.1
+145,196,person,212,motorcycle,0.1
+146,2,car,11,car,0.1
+146,9,person,212,motorcycle,0.9
+146,17,traffic light,140,car,1.5
+147,9,person,212,motorcycle,1.6
+147,10,car,11,car,0.1
+147,192,person,212,motorcycle,1.2000000000000002
+147,196,person,212,motorcycle,0.1
+148,10,car,180,car,0.5
+148,14,person,40,person,2.0
+148,192,person,212,motorcycle,0.7000000000000001
+148,196,person,212,motorcycle,0.1
+149,2,car,180,car,1.9000000000000001
+149,9,person,192,person,0.2
+149,9,person,196,person,0.1
+149,10,car,11,car,0.1
+149,14,person,179,car,1.2000000000000002
+149,192,person,212,motorcycle,0.6000000000000001
+149,196,person,212,motorcycle,0.1
+150,2,car,10,car,1.3
+150,2,car,124,car,0.1
+150,2,car,180,car,1.7000000000000002
+150,9,person,196,person,0.1
+150,14,person,179,car,1.2000000000000002
+150,40,person,179,car,0.7000000000000001
+150,124,car,219,traffic light,0.1
+150,192,person,196,person,0.8
+150,192,person,212,motorcycle,0.7000000000000001
+151,1,car,3,car,0.1
+151,2,car,10,car,1.3
+151,2,car,193,car,0.1
+151,9,person,196,person,0.1
+151,14,person,179,car,1.3
+151,40,person,179,car,0.9
+151,192,person,212,motorcycle,0.9
+151,196,person,212,motorcycle,0.1
+152,1,car,3,car,0.1
+152,2,car,11,car,0.1
+152,7,car,143,person,0.1
+152,9,person,212,motorcycle,0.7000000000000001
+152,10,car,11,car,0.1
+152,14,person,40,person,1.4000000000000001
+152,14,person,179,car,1.4000000000000001
+152,17,traffic light,140,car,1.4000000000000001
+152,17,traffic light,171,car,1.4000000000000001
+152,40,person,179,car,0.9
+152,192,person,212,motorcycle,0.8
+152,196,person,212,motorcycle,0.1
+153,7,car,143,person,0.1
+153,9,person,192,person,0.7000000000000001
+153,9,person,212,motorcycle,0.9
+153,14,person,179,car,1.1
+153,40,person,179,car,0.7000000000000001
+153,196,person,212,motorcycle,0.1
+154,9,person,192,person,0.5
+154,9,person,196,person,0.1
+154,9,person,212,motorcycle,1.6
+154,14,person,179,car,1.5
+154,40,person,179,car,0.8
+155,7,car,143,person,0.1
+155,7,car,212,car,1.7000000000000002
+155,9,person,192,person,0.2
+155,9,person,196,person,0.1
+155,9,person,212,car,0.2
+155,14,person,179,car,1.4000000000000001
+155,40,person,179,car,0.7000000000000001
+156,9,person,212,car,0.1
+156,14,person,179,car,1.5
+156,40,person,179,car,0.6000000000000001
+156,124,car,219,traffic light,0.1
+156,192,person,196,person,1.4000000000000001
+156,192,person,212,car,0.4
+157,7,car,212,car,1.3
+157,14,person,179,car,1.4000000000000001
+157,40,person,179,car,0.5
+157,124,car,219,traffic light,0.1
+157,192,person,212,car,0.6000000000000001
+158,3,car,8,car,1.4000000000000001
+158,14,person,179,car,1.4000000000000001
+158,40,person,179,car,0.5
+159,8,car,225,car,0.1
+159,14,person,179,car,1.7000000000000002
+159,40,person,179,car,0.7000000000000001
+160,8,car,225,car,0.1
+161,8,car,225,car,0.1
+161,11,car,180,car,1.0
+161,40,person,179,car,1.2000000000000002
+162,8,car,225,car,0.1
+162,10,car,180,car,0.30000000000000004
+162,40,person,179,car,1.6
+163,9,person,212,car,0.6000000000000001
+163,10,car,180,car,0.4
+163,14,person,179,car,1.7000000000000002
+163,40,person,179,car,0.8
+163,192,person,212,car,0.4
+164,14,person,179,car,1.3
+164,40,person,179,car,0.6000000000000001
+164,192,person,212,car,0.6000000000000001
+165,1,car,230,person,1.1
+165,9,person,196,person,0.1
+165,9,person,230,person,0.1
+165,40,person,179,car,0.4
+165,196,person,212,car,0.1
+166,1,car,230,person,1.3
+166,9,person,196,person,0.1
+166,9,person,230,person,0.1
+166,40,person,179,car,0.5
+167,81,traffic light,228,train,0.1
+167,212,car,230,person,0.4
+168,40,person,179,car,0.7000000000000001
+168,81,traffic light,228,train,0.1
+169,81,traffic light,228,train,0.1
+169,212,car,230,person,0.2
+169,228,train,246,car,0.8
+170,1,car,212,car,0.1
+170,2,car,212,car,1.9000000000000001
+170,3,car,212,car,0.6000000000000001
+170,5,car,212,car,1.4000000000000001
+170,192,person,212,car,0.1
+170,193,car,212,car,1.9000000000000001
+170,212,car,243,person,0.2
+170,228,train,246,car,0.8
+171,1,car,212,car,0.1
+171,2,car,212,car,1.3
+171,3,car,212,car,0.4
+171,5,car,212,car,1.0
+171,9,person,212,car,0.1
+171,10,car,180,car,0.6000000000000001
+171,14,person,40,person,1.6
+171,192,person,212,car,0.1
+171,193,car,212,car,1.4000000000000001
+171,212,car,243,person,0.1
+171,212,car,246,car,2.0
+171,212,car,251,traffic light,1.8
+172,1,car,212,car,0.1
+172,5,car,212,car,0.8
+172,10,car,180,car,0.9
+172,14,person,40,person,1.9000000000000001
+172,14,person,179,car,2.0
+172,14,person,253,motorcycle,1.2000000000000002
+172,40,person,179,car,1.0
+172,192,person,212,car,0.1
+172,212,car,231,traffic light,1.5
+172,212,car,243,person,0.1
+173,1,car,212,car,0.1
+173,5,car,212,car,1.9000000000000001
+173,14,person,40,person,1.7000000000000002
+173,14,person,179,car,1.2000000000000002
+173,14,person,253,motorcycle,1.8
+173,81,traffic light,228,train,0.1
+173,192,person,212,car,0.1
+173,212,car,243,person,0.2
+174,1,car,212,car,0.1
+174,3,car,8,car,0.7000000000000001
+174,14,person,179,car,1.1
+174,81,traffic light,228,bus,0.1
+174,192,person,212,car,0.1
+175,1,car,212,car,0.1
+175,3,car,8,car,0.6000000000000001
+175,3,car,253,motorcycle,0.1
+175,10,car,11,car,0.1
+175,14,person,179,car,1.4000000000000001
+175,192,person,212,car,0.1
+176,1,car,3,car,0.1
+176,3,car,8,car,0.7000000000000001
+176,3,car,253,motorcycle,0.1
+176,7,car,259,person,0.1
+176,10,car,11,car,0.1
+176,14,person,179,car,1.9000000000000001
+177,7,car,259,person,0.1
+177,10,car,11,car,0.1
+177,10,car,140,car,1.8
+177,10,car,252,car,1.8
+178,7,car,192,person,2.0
+178,7,car,259,person,0.1
+178,10,car,11,car,0.1
+178,10,car,140,car,1.6
+178,10,car,252,car,2.0
+178,192,person,243,person,0.6000000000000001
+179,2,car,11,car,0.1
+179,10,car,11,car,0.1
+179,10,car,246,car,1.7000000000000002
+179,81,traffic light,228,bus,0.1
+180,2,car,11,car,0.1
+180,3,car,269,motorcycle,0.1
+180,253,motorcycle,269,motorcycle,0.1
+181,3,car,269,motorcycle,0.1
+181,10,car,11,car,0.1
+182,1,car,3,car,0.1
+182,10,car,11,car,0.1
+183,1,car,243,person,0.1
+183,7,car,259,person,0.1
+183,81,traffic light,246,car,0.6000000000000001
+183,228,bus,246,car,0.4
+184,1,car,243,person,0.1
+184,7,car,259,person,0.1
+184,81,traffic light,228,bus,0.1
+185,1,car,3,car,0.1
+185,1,car,124,car,1.2000000000000002
+185,1,car,243,person,0.1
+185,3,car,269,car,0.1
+185,7,car,259,person,0.1
+185,10,car,11,car,0.1
+185,17,traffic light,246,car,1.0
+185,81,traffic light,228,bus,0.1
+185,179,car,269,car,1.1
+185,260,person,262,person,0.7000000000000001
+186,1,car,243,person,0.1
+186,1,car,262,person,1.0
+186,5,car,124,car,0.30000000000000004
+186,7,car,259,person,0.1
+186,10,car,11,car,0.1
+186,10,car,246,car,1.2000000000000002
+186,81,traffic light,228,bus,0.1
+186,124,car,260,person,1.6
+186,179,car,278,person,2.0
+186,212,car,243,person,0.30000000000000004
+186,212,car,260,person,0.1
+186,212,car,262,person,0.4
+186,260,person,262,person,0.7000000000000001
+187,7,car,259,person,0.1
+187,14,person,278,person,0.1
+187,81,traffic light,228,train,0.1
+187,179,car,278,person,1.6
+188,14,person,278,person,0.1
+188,179,car,278,person,1.5
+189,1,car,243,person,0.1
+189,10,car,180,car,0.1
+189,17,traffic light,140,car,1.2000000000000002
+189,17,traffic light,285,car,1.1
+189,179,car,278,person,1.1
+189,243,person,260,person,1.3
+189,260,person,290,car,0.1
+190,2,car,269,motorcycle,0.4
+190,3,car,269,motorcycle,0.1
+190,10,car,180,car,0.1
+190,14,person,179,car,1.6
+190,17,traffic light,140,car,1.4000000000000001
+190,17,traffic light,246,car,0.7000000000000001
+190,17,traffic light,285,car,1.1
+190,124,car,269,motorcycle,1.3
+190,179,car,278,person,1.1
+190,193,car,269,motorcycle,1.6
+190,212,car,260,person,0.1
+190,253,motorcycle,269,motorcycle,0.1
+190,260,person,291,person,0.1
+191,2,car,124,car,0.1
+191,2,car,193,car,0.1
+191,2,car,269,motorcycle,0.5
+191,3,car,269,motorcycle,0.1
+191,10,car,180,car,0.2
+191,14,person,179,car,0.7000000000000001
+191,17,traffic light,285,car,1.3
+191,124,car,269,motorcycle,1.6
+191,179,car,278,person,0.7000000000000001
+191,253,motorcycle,269,motorcycle,0.1
+192,2,car,124,car,0.1
+192,2,car,193,car,0.1
+192,10,car,180,car,0.7000000000000001
+192,14,person,179,car,0.5
+192,179,car,278,person,0.5
+193,2,car,124,car,0.1
+193,2,car,193,car,0.1
+193,179,car,278,person,0.4
+194,7,car,8,car,1.9000000000000001
+194,10,car,180,car,0.2
+194,11,car,180,car,0.5
+194,179,car,278,person,0.4
+194,243,person,262,person,0.1
+195,1,car,243,person,0.1
+195,1,car,290,car,0.1
+195,7,car,290,car,1.7000000000000002
+195,8,car,253,motorcycle,0.2
+195,8,car,269,motorcycle,0.1
+195,10,car,180,car,0.2
+195,11,car,180,car,0.4
+195,179,car,278,person,0.6000000000000001
+196,1,car,3,car,0.1
+196,1,car,243,person,0.1
+196,1,car,290,car,0.1
+196,8,car,253,motorcycle,0.1
+196,8,car,269,motorcycle,0.1
+196,10,car,180,car,0.30000000000000004
+196,11,car,180,car,0.5
+196,179,car,278,person,0.6000000000000001
+196,290,car,291,person,0.1
+197,1,car,243,person,0.1
+197,1,car,290,car,0.1
+197,8,car,253,motorcycle,0.1
+197,8,car,269,car,0.1
+197,11,car,180,car,1.8
+197,179,car,278,person,0.6000000000000001
+197,253,motorcycle,291,person,2.0
+197,260,person,290,car,0.30000000000000004
+197,269,car,291,person,2.0
+197,290,car,291,person,0.1
+198,2,car,11,car,0.1
+198,10,car,11,car,0.1
+198,179,car,278,person,0.5
+198,243,person,290,car,0.1
+198,253,motorcycle,291,person,2.0
+199,2,car,11,car,0.1
+199,10,car,11,car,0.1
+199,179,car,278,person,0.4
+199,243,person,290,car,0.1
+200,8,car,269,car,0.1
+200,10,car,246,car,1.2000000000000002
+200,11,car,246,car,1.1
+200,179,car,269,car,0.6000000000000001
+200,179,car,278,person,0.30000000000000004
+201,3,car,269,car,0.1
+201,8,car,269,car,0.1
+201,10,car,11,car,0.1
+201,179,car,269,car,0.7000000000000001
+201,179,car,278,person,0.30000000000000004
+202,2,car,10,car,2.0
+202,2,car,11,car,0.1
+202,2,car,193,car,0.1
+202,8,car,269,car,0.1
+202,179,car,269,car,0.6000000000000001
+202,179,car,278,person,0.4
+203,2,car,10,car,1.4000000000000001
+203,2,car,193,car,0.1
+203,8,car,269,car,0.1
+203,179,car,278,person,0.4
+204,2,car,193,car,0.1
+204,7,car,259,person,0.1
+204,7,car,307,person,0.1
+204,179,car,278,person,0.30000000000000004
+204,262,person,316,person,0.2
+204,307,person,316,person,1.8
+205,2,car,193,car,0.1
+205,7,car,307,person,0.1
+205,179,car,278,person,0.30000000000000004
+205,260,person,316,person,0.1
+205,262,person,316,person,0.30000000000000004
+206,2,car,193,car,0.1
+206,7,car,259,person,0.1
+206,7,car,307,person,0.1
+206,179,car,278,person,0.2
+206,260,person,290,car,0.4
+206,262,person,290,car,0.5
+207,2,car,193,car,0.1
+207,11,car,180,car,1.1
+207,179,car,278,person,0.1
+207,260,person,290,car,0.5
+207,262,person,290,car,0.5
+208,2,car,11,car,0.1
+208,2,car,180,car,2.0
+208,2,car,193,car,0.1
+208,10,car,11,car,0.1
+208,10,car,180,car,0.7000000000000001
+208,17,traffic light,246,car,1.4000000000000001
+208,179,car,278,person,0.1
+209,2,car,11,car,0.1
+209,2,car,180,car,1.8
+209,5,car,310,car,0.1
+209,10,car,11,car,0.1
+209,10,car,180,car,1.0
+209,179,car,278,person,0.1
+210,2,car,11,car,0.1
+210,2,car,193,car,0.1
+210,10,car,11,car,0.1
+210,179,car,278,person,0.1
+211,1,car,5,car,1.2000000000000002
+211,2,car,8,car,1.9000000000000001
+211,3,car,8,car,1.3
+211,179,car,278,person,0.1
+212,2,car,193,car,0.1
+212,3,car,8,car,0.4
+212,179,car,278,person,0.1
+212,259,person,291,person,0.2
+212,262,person,291,person,0.4
+213,3,car,8,car,0.30000000000000004
+213,179,car,278,person,0.1
+214,2,car,325,traffic light,2.0
+214,3,car,8,car,0.5
+214,193,car,325,traffic light,0.1
+215,8,car,179,car,1.9000000000000001
+215,193,car,325,traffic light,0.1
+216,3,car,8,car,0.6000000000000001
+216,17,traffic light,246,car,1.6
+216,193,car,325,traffic light,0.1
+216,260,person,262,person,0.30000000000000004
+216,323,traffic light,325,traffic light,0.1
+216,323,traffic light,329,car,1.9000000000000001
+217,2,car,329,car,1.1
+217,3,car,8,car,0.2
+217,8,car,329,car,1.9000000000000001
+217,17,traffic light,246,car,1.6
+217,231,traffic light,329,car,0.8
+218,2,car,329,car,0.8
+218,8,car,329,car,1.5
+218,10,car,329,car,1.6
+218,17,traffic light,246,car,1.5
+218,193,car,325,traffic light,0.1
+218,231,traffic light,329,car,0.6000000000000001
+218,325,traffic light,329,car,0.5
+219,2,car,11,car,0.1
+219,2,car,329,car,0.5
+219,5,car,329,car,0.6000000000000001
+219,17,traffic light,246,car,1.7000000000000002
+219,193,car,325,traffic light,0.1
+219,193,car,329,car,0.4
+220,2,car,329,car,0.7000000000000001
+220,5,car,231,traffic light,1.4000000000000001
+220,10,car,329,car,0.7000000000000001
+220,17,traffic light,246,car,1.7000000000000002
+220,193,car,325,traffic light,0.1
+220,193,car,329,car,0.5
+221,2,car,329,car,0.9
+221,10,car,329,car,1.0
+221,11,car,180,car,1.1
+221,17,traffic light,246,car,1.8
+221,17,traffic light,329,car,1.0
+221,180,car,329,car,1.1
+221,193,car,329,car,0.7000000000000001
+222,2,car,11,car,0.1
+222,8,car,179,car,0.6000000000000001
+222,10,car,180,car,0.4
+222,17,traffic light,246,car,1.8
+222,17,traffic light,329,car,0.9
+223,2,car,11,car,0.1
+223,10,car,180,car,0.6000000000000001
+223,11,car,329,car,1.2000000000000002
+223,325,traffic light,329,car,0.7000000000000001
+224,2,car,11,car,0.1
+224,10,car,329,car,1.2000000000000002
+224,11,car,329,car,1.1
+224,260,person,262,person,0.1
+224,260,person,291,person,0.1
+224,325,traffic light,329,car,0.6000000000000001
+225,260,person,262,person,0.1
+225,260,person,291,person,0.1
+226,193,car,325,traffic light,0.1
+226,193,car,329,car,0.7000000000000001
+227,10,car,329,car,1.1
+227,193,car,325,traffic light,0.1
+227,262,person,291,person,0.1
+227,291,person,307,person,0.4
+228,2,car,10,car,1.9000000000000001
+228,7,car,307,person,0.1
+228,10,car,11,car,0.1
+228,10,car,329,car,1.2000000000000002
+228,231,traffic light,325,traffic light,0.4
+228,325,traffic light,329,car,0.6000000000000001
+229,7,car,307,person,0.1
+229,8,car,179,car,1.2000000000000002
+229,10,car,11,car,0.1
+229,231,traffic light,325,traffic light,0.1
+230,2,car,11,car,0.1
+230,10,car,11,car,0.1
+230,11,car,180,car,1.2000000000000002
+230,231,traffic light,325,traffic light,0.2
+230,325,traffic light,329,car,0.6000000000000001
+231,2,car,193,car,0.1
+231,10,car,11,car,0.1
+231,10,car,180,car,1.2000000000000002
+231,11,car,180,car,0.6000000000000001
+231,193,car,231,traffic light,2.0
+231,231,traffic light,325,traffic light,0.30000000000000004
+231,325,traffic light,329,car,0.6000000000000001
+232,10,car,11,car,0.1
+232,17,traffic light,329,car,1.3
+232,17,traffic light,374,car,1.1
+232,325,traffic light,329,car,0.6000000000000001
+233,7,car,307,person,0.1
+233,10,car,11,car,0.1
+233,17,traffic light,329,car,1.2000000000000002
+233,17,traffic light,374,car,1.0
+234,3,car,8,car,1.6
+234,7,car,307,person,0.1
+234,10,car,11,car,0.1
+234,17,traffic light,374,car,1.1
+235,3,car,8,car,1.4000000000000001
+235,10,car,11,car,0.1
+235,17,traffic light,374,car,1.1
+235,231,traffic light,325,traffic light,0.9
+235,231,traffic light,380,traffic light,0.1
+236,10,car,11,car,0.1
+236,17,traffic light,246,car,1.6
+236,17,traffic light,329,car,1.2000000000000002
+236,17,traffic light,374,car,1.2000000000000002
+236,231,traffic light,325,traffic light,0.4
+236,231,traffic light,380,traffic light,0.1
+237,7,car,307,person,0.1
+237,10,car,11,car,0.1
+237,10,car,180,car,0.5
+237,17,traffic light,246,car,1.4000000000000001
+237,17,traffic light,329,car,1.3
+238,7,car,260,person,1.8
+238,7,car,307,person,0.1
+238,10,car,11,car,0.1
+238,10,car,180,car,0.4
+238,11,car,329,car,1.2000000000000002
+238,17,traffic light,246,car,1.5
+238,17,traffic light,329,car,1.4000000000000001
+238,193,car,380,traffic light,0.1
+238,325,traffic light,380,traffic light,0.1
+239,7,car,260,person,1.1
+239,7,car,307,person,0.1
+239,193,car,325,traffic light,0.1
+239,193,car,380,traffic light,0.1
+240,2,car,11,car,0.1
+240,7,car,260,person,1.2000000000000002
+240,7,car,307,person,0.1
+240,10,car,11,car,0.1
+240,193,car,380,traffic light,0.1
+241,2,car,11,car,0.1
+241,10,car,11,car,0.1
+242,2,car,11,car,0.1
+242,2,car,193,car,0.1
+242,8,car,386,car,0.5
+242,17,traffic light,329,car,1.5
+243,2,car,11,car,0.1
+243,2,car,193,car,0.1
+243,17,traffic light,374,car,1.2000000000000002
+244,2,car,11,car,0.1
+244,2,car,193,car,0.1
+244,7,car,307,person,0.1
+244,10,car,11,car,0.1
+244,17,traffic light,374,car,1.3
+244,81,traffic light,367,car,0.7000000000000001
+244,325,traffic light,329,car,0.9
+245,2,car,11,car,0.1
+245,2,car,193,car,0.1
+245,3,car,5,car,1.5
+245,5,car,193,car,0.8
+245,7,car,307,person,0.1
+245,11,car,329,car,1.3
+246,2,car,11,car,0.1
+246,2,car,193,car,0.1
+246,5,car,193,car,0.7000000000000001
+246,7,car,8,car,1.7000000000000002
+246,7,car,179,car,2.0
+247,2,car,11,car,0.1
+247,2,car,193,car,0.1
+248,2,car,11,car,0.1
+248,193,car,325,traffic light,0.1
+249,2,car,11,car,0.1
+249,10,car,11,car,0.1
+249,17,traffic light,329,car,1.3
+249,193,car,325,traffic light,0.1
+250,2,car,11,car,0.1
+250,10,car,11,car,0.1
+250,17,traffic light,246,car,1.9000000000000001
+250,17,traffic light,329,car,1.4000000000000001
+250,17,traffic light,367,car,1.3
+250,17,traffic light,374,car,1.4000000000000001
+251,2,car,11,car,0.1
+251,2,car,193,car,0.1
+251,10,car,11,car,0.1
+251,10,car,367,car,1.6
+252,17,traffic light,246,car,1.7000000000000002
+252,17,traffic light,329,car,1.3
+252,17,traffic light,367,car,1.2000000000000002
+252,17,traffic light,374,car,1.2000000000000002
+253,10,car,11,car,0.1
+253,193,car,325,traffic light,0.1
+254,2,car,11,car,0.1
+254,7,car,407,car,0.1
+254,10,car,11,car,0.1
+254,17,traffic light,246,car,2.0
+254,17,traffic light,329,car,1.1
+254,17,traffic light,367,car,0.9
+254,193,car,325,traffic light,0.1
+255,2,car,11,car,0.1
+255,7,car,407,car,0.1
+255,10,car,11,car,0.1
+255,193,car,325,traffic light,0.1
+256,2,car,11,car,0.1
+256,10,car,11,car,0.1
+256,17,traffic light,329,car,1.4000000000000001
+256,17,traffic light,367,car,1.4000000000000001
+256,17,traffic light,374,car,1.4000000000000001
+258,7,car,407,car,0.1
+258,17,traffic light,367,car,1.5
+258,260,person,406,car,0.1
+259,2,car,11,car,0.1
+259,10,car,11,car,0.1
+259,17,traffic light,367,car,1.5
+259,329,car,415,car,2.0
+260,2,car,11,car,0.1
+260,10,car,329,car,1.4000000000000001
+260,10,car,367,car,1.4000000000000001
+260,17,traffic light,367,car,1.4000000000000001
+260,329,car,415,car,2.0
+260,367,car,415,car,1.7000000000000002
+261,10,car,11,car,0.1
+261,10,car,367,car,1.6
+261,17,traffic light,367,car,1.6
+261,180,car,415,car,0.7000000000000001
+262,10,car,11,car,0.1
+262,10,car,367,car,1.8
+262,17,traffic light,367,car,1.8
+262,180,car,415,car,0.5
+263,2,car,11,car,0.1
+263,2,car,193,car,0.1
+263,10,car,11,car,0.1
+263,17,traffic light,246,car,1.5
+263,17,traffic light,367,car,1.7000000000000002
+263,180,car,415,car,0.6000000000000001
+264,2,car,11,car,0.1
+264,10,car,11,car,0.1
+264,10,car,180,car,0.7000000000000001
+264,17,traffic light,246,car,1.2000000000000002
+264,17,traffic light,367,car,1.8
+265,2,car,11,car,0.1
+265,10,car,11,car,0.1
+265,17,traffic light,246,car,1.4000000000000001
+265,17,traffic light,367,car,1.8
+266,2,car,11,car,0.1
+266,7,car,407,car,0.1
+266,10,car,11,car,0.1
+266,17,traffic light,367,car,1.6
+267,2,car,11,car,0.1
+267,10,car,11,car,0.1
+268,2,car,11,car,0.1
+268,7,car,407,car,0.1
+268,17,traffic light,367,car,1.3
+269,2,car,11,car,0.1
+269,7,car,407,car,0.1
+269,10,car,11,car,0.1
+269,17,traffic light,367,car,1.4000000000000001
+270,2,car,11,car,0.1
+270,10,car,11,car,0.1
+270,17,traffic light,367,car,1.5
+270,180,car,415,car,0.7000000000000001
+271,2,car,11,car,0.1
+271,180,car,415,car,0.30000000000000004
+271,260,person,431,car,0.1
+272,2,car,11,car,0.1
+272,7,car,407,car,0.1
+272,180,car,415,car,0.30000000000000004
+272,260,person,431,car,0.1
+273,10,car,180,car,0.9
+273,260,person,431,car,0.1
+274,10,car,180,car,1.6
+276,10,car,11,car,0.1
+276,260,person,431,car,0.1
+277,10,car,11,car,0.1
+277,260,person,431,car,0.1
+278,7,car,307,person,0.1
+278,10,car,446,car,1.5
+278,260,person,431,car,0.1
+278,415,car,446,car,1.7000000000000002
+279,2,car,11,car,0.1
+279,10,car,11,car,0.1
+280,2,car,11,car,0.1
+280,260,person,431,car,0.1
+282,7,car,179,car,1.8
+282,7,car,307,person,0.1
+282,8,car,451,motorcycle,0.1
+282,10,car,11,car,0.1
+282,17,traffic light,329,car,2.0
+282,17,traffic light,367,car,1.9000000000000001
+282,17,traffic light,446,car,1.0
+283,7,car,179,car,1.5
+283,7,car,307,person,0.1
+283,8,car,451,motorcycle,0.1
+283,10,car,11,car,0.1
+283,17,traffic light,367,car,1.8
+283,17,traffic light,446,car,0.9
+284,7,car,179,car,1.4000000000000001
+284,8,car,179,car,0.8
+284,8,car,451,motorcycle,0.1
+284,10,car,11,car,0.1
+284,17,traffic light,367,car,1.6
+284,17,traffic light,446,car,1.2000000000000002
+285,8,car,179,car,0.8
+285,8,car,451,motorcycle,0.1
+285,10,car,11,car,0.1
+286,8,car,451,motorcycle,0.1
+286,10,car,11,car,0.1
+286,260,person,431,car,0.1
+287,2,car,11,car,0.1
+287,260,person,431,car,0.1
+288,2,car,11,car,0.1
+288,7,car,179,car,1.8
+288,7,car,307,person,0.1
+288,8,car,451,motorcycle,0.1
+288,260,person,431,car,0.1
+289,7,car,179,car,1.4000000000000001
+289,8,car,451,motorcycle,0.1
+289,10,car,446,car,1.3
+289,17,traffic light,367,car,1.8
+289,260,person,431,car,0.1
+289,260,person,458,person,0.30000000000000004
+290,2,car,451,motorcycle,0.9
+290,7,car,179,car,1.2000000000000002
+290,8,car,179,car,0.8
+290,260,person,431,car,0.1
+290,260,person,458,person,0.2
+291,2,car,11,car,0.1
+291,8,car,179,car,0.5
+291,8,car,451,motorcycle,0.1
+291,17,traffic light,446,car,0.8
+292,2,car,11,car,0.1
+292,8,car,179,car,0.5
+292,8,car,451,motorcycle,0.1
+292,10,car,11,car,0.1
+292,17,traffic light,461,car,1.1
+293,2,car,11,car,0.1
+293,8,car,451,car,0.1
+293,10,car,11,car,0.1
+293,17,traffic light,367,car,1.9000000000000001
+294,10,car,11,car,0.1
+294,11,car,461,car,0.8
+294,17,traffic light,367,car,1.8
+295,8,car,451,car,0.1
+295,17,traffic light,367,car,1.7000000000000002
+295,180,car,461,car,1.1
+296,8,car,451,motorcycle,0.1
+296,17,traffic light,367,car,1.8
+297,8,car,179,car,0.5
+297,8,car,451,car,0.1
+297,17,traffic light,367,car,1.9000000000000001
+298,2,car,8,car,1.7000000000000002
+298,7,car,179,car,1.0
+298,7,car,307,person,0.1
+298,8,car,179,car,0.4
+298,8,car,451,car,0.1
+298,10,car,11,car,0.1
+298,17,traffic light,367,car,1.4000000000000001
+298,17,traffic light,461,car,1.2000000000000002
+299,2,car,8,car,1.6
+299,2,car,11,car,0.1
+299,7,car,179,car,0.8
+299,7,car,307,person,0.1
+299,8,car,179,car,0.4
+299,8,car,451,car,0.1
+299,10,car,11,car,0.1
+300,2,car,8,car,1.7000000000000002
+300,2,car,11,car,0.1
+300,7,car,179,car,0.8
+300,7,car,307,person,0.1
+300,8,car,451,car,0.1
+301,2,car,11,car,0.1
+301,7,car,179,car,0.7000000000000001
+301,7,car,307,person,0.1
+301,8,car,451,car,0.1
+301,180,car,415,car,0.1
+301,260,person,487,person,0.1
+302,2,car,8,car,1.9000000000000001
+302,8,car,451,car,0.1
+302,180,car,415,car,0.1
+303,2,car,8,car,1.5
+303,8,car,451,car,0.1
+303,10,car,415,car,1.9000000000000001
+303,180,car,415,car,0.1
+304,2,car,8,car,1.3
+304,7,car,179,car,0.9
+304,8,car,451,car,0.1
+304,10,car,415,car,1.6
+304,307,person,407,car,0.1
+307,2,car,11,car,0.1
+308,2,car,11,car,0.1
+309,2,car,11,car,0.1
+309,8,car,179,car,0.6000000000000001
+309,8,car,494,person,0.1
+310,2,car,8,car,0.8
+310,7,car,179,car,1.5
+310,7,car,307,person,0.1
+310,17,traffic light,461,car,1.5
+310,307,person,407,car,0.1
+311,2,car,8,car,0.4
+311,7,car,407,car,0.1
+311,8,car,11,car,2.0
+311,8,car,180,car,1.2000000000000002
+311,10,car,11,car,0.1
+311,17,traffic light,461,car,1.1
+312,2,car,8,car,0.4
+312,7,car,179,car,0.2
+312,7,car,407,car,0.1
+312,10,car,11,car,0.1
+312,17,traffic light,367,car,1.4000000000000001
+312,179,car,407,car,0.4
+313,2,car,8,car,0.4
+313,7,car,179,car,0.2
+313,7,car,407,car,0.1
+313,10,car,11,car,0.1
+313,10,car,180,car,1.9000000000000001
+313,11,car,180,car,1.1
+313,179,car,407,car,0.4
+314,2,car,11,car,0.1
+314,10,car,180,car,2.0
+314,11,car,180,car,1.6
+314,17,traffic light,367,car,1.9000000000000001
+314,17,traffic light,461,car,1.3
+314,179,car,407,car,0.5
+314,307,person,407,car,0.1
+314,407,car,501,car,1.1
+315,2,car,11,car,0.1
+315,7,car,407,car,0.1
+315,17,traffic light,461,car,1.1
+315,179,car,407,car,0.6000000000000001
+315,307,person,407,car,0.1
+315,407,car,501,car,1.9000000000000001
+316,7,car,407,car,0.1
+316,10,car,11,car,0.1
+316,17,traffic light,461,car,1.4000000000000001
+316,179,car,407,car,0.6000000000000001
+317,7,car,407,car,0.1
+317,10,car,11,car,0.1
+317,179,car,407,car,0.5
+318,2,car,8,car,1.1
+318,7,car,307,person,0.1
+318,7,car,407,car,0.1
+318,10,car,11,car,0.1
+318,179,car,407,car,0.6000000000000001
+318,260,person,513,person,0.1
+318,307,person,407,car,0.1
+319,2,car,8,car,0.9
+319,7,car,307,person,0.1
+319,7,car,407,car,0.1
+319,10,car,11,car,0.1
+319,179,car,407,car,0.6000000000000001
+319,307,person,407,car,0.1
+320,7,car,307,person,0.1
+320,10,car,11,car,0.1
+320,17,traffic light,329,car,0.8
+321,2,car,11,car,0.1
+321,10,car,11,car,0.1
+321,17,traffic light,329,traffic light,1.0
+322,2,car,11,car,0.1
+323,2,car,11,car,0.1
+323,7,car,524,car,0.1
+323,179,car,524,car,0.1
+324,2,car,11,car,0.1
+324,7,car,524,car,0.1
+324,11,car,526,car,2.0
+324,17,traffic light,461,car,1.4000000000000001
+324,179,car,524,car,0.1
+325,10,car,526,car,2.0
+326,7,car,179,car,0.1
+326,7,car,524,car,0.1
+326,17,traffic light,461,car,1.4000000000000001
+327,7,car,179,car,0.1
+327,7,car,524,car,0.1
+328,2,car,8,car,0.5
+328,7,car,179,car,0.1
+328,8,car,180,car,1.8
+328,17,traffic light,526,car,1.3
+328,179,car,524,car,0.1
+329,2,car,8,car,0.6000000000000001
+329,3,car,260,person,0.9
+329,7,car,179,car,0.1
+329,179,car,524,car,0.1
+330,2,car,8,car,0.7000000000000001
+330,3,car,260,person,0.7000000000000001
+330,260,person,535,person,0.5
+331,2,car,8,car,0.9
+331,3,car,260,person,0.7000000000000001
+331,7,car,179,car,0.1
+331,8,car,542,person,0.2
+331,10,car,526,car,2.0
+331,260,person,518,person,1.1
+331,260,person,535,person,0.4
+332,2,car,8,car,0.9
+332,7,car,179,car,0.1
+332,8,car,542,person,0.2
+332,8,car,545,person,0.6000000000000001
+332,179,car,524,car,0.1
+333,2,car,8,car,1.0
+333,7,car,179,car,0.1
+333,8,car,542,person,0.2
+333,11,car,180,car,1.5
+333,179,car,524,car,0.1
+334,2,car,8,car,1.1
+334,7,car,179,car,0.1
+334,8,car,542,person,0.2
+334,10,car,11,car,0.1
+334,11,car,180,car,1.4000000000000001
+334,179,car,524,car,0.1
+335,2,car,8,car,1.2000000000000002
+335,7,car,179,car,0.1
+335,8,car,542,person,0.4
+335,8,car,545,person,1.2000000000000002
+335,10,car,11,car,0.1
+335,11,car,180,car,1.4000000000000001
+335,17,traffic light,526,car,2.0
+336,2,car,8,car,1.2000000000000002
+336,7,car,179,car,0.1
+336,8,car,542,person,0.4
+336,8,car,545,person,0.5
+336,8,car,556,person,0.1
+336,10,car,11,car,0.1
+336,17,traffic light,526,car,1.5
+337,7,car,560,car,0.1
+337,17,traffic light,526,car,1.0
+338,7,car,560,car,0.1
+338,17,traffic light,526,car,0.9
+339,2,car,11,car,0.1
+339,8,car,556,motorcycle,0.1
+339,17,traffic light,526,car,1.1
+339,260,person,571,person,0.8
+340,260,person,571,person,0.9
+341,7,car,560,car,0.1
+341,8,car,556,motorcycle,0.1
+342,7,car,560,car,0.1
+342,17,traffic light,581,car,1.3
+343,2,car,180,car,1.8
+343,7,car,560,car,0.1
+344,7,car,542,person,1.6
+344,7,car,560,car,0.1
+344,260,person,535,car,0.2
+345,7,car,560,car,0.1
+345,260,person,556,car,1.3
+346,7,car,560,car,0.1
+346,10,car,11,car,0.1
+346,260,person,556,car,1.1
+346,260,person,571,person,0.2
+347,10,car,11,car,0.1
+347,260,person,556,car,1.5
+348,17,traffic light,581,car,1.3
+348,17,traffic light,605,car,1.2000000000000002
+349,17,traffic light,581,car,1.3
+349,17,traffic light,605,car,1.0
+349,325,traffic light,604,traffic light,0.1
+350,17,traffic light,581,car,1.4000000000000001
+350,17,traffic light,605,car,1.0
+350,325,traffic light,604,traffic light,0.1
+351,8,car,542,person,0.1
+351,10,car,180,car,0.5
+351,17,traffic light,581,car,1.4000000000000001
+351,17,traffic light,605,car,1.0
+352,8,car,542,person,0.1
+352,260,person,556,motorcycle,1.2000000000000002
+352,325,traffic light,604,traffic light,0.1
+353,8,car,542,person,0.1
+353,325,traffic light,604,traffic light,0.1
+354,325,traffic light,604,traffic light,0.1
+357,325,traffic light,604,traffic light,0.1
+358,7,car,560,car,0.1
+358,17,traffic light,605,car,0.8
+358,260,person,545,person,1.4000000000000001
+358,260,person,556,motorcycle,0.9
+358,325,traffic light,604,traffic light,0.1
+358,454,car,555,car,1.1
+359,7,car,560,car,0.1
+359,17,traffic light,605,car,0.9
+359,180,car,619,car,1.7000000000000002
+359,260,person,545,person,1.0
+359,260,person,556,motorcycle,0.7000000000000001
+359,325,traffic light,604,traffic light,0.1
+360,7,car,560,car,0.1
+360,10,car,11,car,0.1
+360,10,car,180,car,1.6
+360,260,person,556,motorcycle,0.8
+361,7,car,560,car,0.1
+361,10,car,11,car,0.1
+361,10,car,180,car,0.8
+361,260,person,556,motorcycle,0.8
+362,2,car,8,car,0.2
+362,8,car,545,person,0.1
+362,10,car,180,car,0.7000000000000001
+362,260,person,556,motorcycle,0.8
+363,2,car,8,car,0.1
+363,7,car,560,car,0.1
+363,8,car,545,person,0.1
+363,8,car,623,person,0.2
+363,10,car,180,car,0.9
+363,17,traffic light,581,car,1.2000000000000002
+364,7,car,560,car,0.1
+364,325,traffic light,604,traffic light,0.1
+365,7,car,560,car,0.1
+365,8,car,545,person,0.1
+365,8,car,623,person,0.7000000000000001
+365,325,traffic light,604,traffic light,0.1
+366,2,car,8,car,0.1
+366,7,car,560,car,0.1
+366,8,car,545,person,0.1
+366,8,car,623,person,0.9
+366,10,car,11,car,0.1
+366,17,traffic light,630,car,1.5
+367,2,car,8,car,0.1
+367,2,car,623,person,0.1
+367,8,car,545,person,0.1
+367,10,car,630,car,1.5
+368,2,car,8,car,0.1
+368,2,car,623,person,0.1
+368,8,car,545,person,0.1
+368,325,traffic light,604,traffic light,0.1
+369,2,car,8,car,0.1
+369,2,car,623,person,0.1
+369,8,car,545,person,0.1
+369,17,traffic light,605,car,1.1
+369,17,traffic light,630,car,0.8
+370,2,car,8,car,0.1
+370,7,car,560,car,0.1
+370,8,car,545,person,0.1
+370,8,car,623,person,0.1
+370,10,car,11,car,0.1
+370,17,traffic light,630,car,0.9
+370,325,traffic light,604,traffic light,0.1
+371,2,car,8,car,0.1
+371,8,car,545,person,0.1
+371,8,car,623,person,0.1
+371,10,car,11,car,0.1
+371,17,traffic light,630,car,1.1
+371,555,car,641,car,0.1
+372,17,traffic light,630,car,1.1
+372,325,traffic light,604,traffic light,0.1
+373,325,traffic light,604,traffic light,0.1
+374,2,car,8,car,0.1
+374,8,car,545,person,0.1
+374,8,car,623,person,0.1
+374,325,traffic light,604,traffic light,0.1
+375,2,car,8,car,0.1
+375,7,car,560,car,0.1
+375,7,car,640,person,0.2
+375,8,car,545,motorcycle,0.1
+375,8,car,623,person,0.1
+376,2,car,8,car,0.1
+376,7,car,560,car,0.1
+376,7,car,640,person,0.30000000000000004
+376,8,car,545,motorcycle,0.1
+376,8,car,623,person,0.1
+376,260,person,556,car,0.1
+377,2,car,8,car,0.1
+377,7,car,640,person,0.7000000000000001
+377,8,car,545,motorcycle,0.1
+377,8,car,623,person,0.1
+377,10,car,660,car,0.1
+377,556,car,640,person,0.6000000000000001
+378,2,car,8,car,0.1
+378,10,car,660,car,0.1
+379,10,car,660,car,0.1
+380,10,car,660,car,0.1
+383,260,person,545,car,1.5
+384,325,traffic light,604,traffic light,0.1
+386,2,car,8,car,0.1
+386,7,car,640,person,0.1
+386,8,car,623,person,0.1
+386,10,car,660,car,0.1
+387,2,car,8,car,0.1
+387,7,car,640,person,0.1
+387,8,car,676,person,0.5
+388,2,car,8,car,0.1
+388,8,car,676,person,0.30000000000000004
+388,260,person,545,car,1.3
+388,555,car,641,car,0.1
+389,2,car,8,car,0.1
+389,8,car,623,person,0.1
+389,8,car,676,person,0.30000000000000004
+389,11,car,677,car,1.9000000000000001
+389,260,person,545,car,1.2000000000000002
+390,2,car,8,car,0.1
+390,8,car,623,person,0.1
+390,555,car,641,car,0.1
+390,641,car,677,car,0.2
+390,677,car,680,car,0.1
+391,8,car,623,person,0.1
+391,555,car,641,car,0.1
+391,555,car,677,car,0.5
+391,641,car,677,car,0.2
+391,677,car,680,car,0.1
+392,260,person,640,person,1.5
+392,555,car,677,truck,0.4
+392,677,truck,680,car,0.1
+393,7,car,640,person,1.5
+393,260,person,640,person,1.3
+393,677,truck,680,car,0.1
+394,7,car,640,person,0.7000000000000001
+394,260,person,640,person,1.0
+394,677,truck,680,car,0.1
+395,2,car,8,car,0.1
+395,10,car,677,truck,1.7000000000000002
+395,260,person,545,motorcycle,0.9
+395,640,person,686,car,0.5
+395,660,car,677,truck,1.6
+395,677,truck,680,car,0.1
+396,2,car,8,car,0.1
+396,11,car,677,truck,1.4000000000000001
+396,555,car,641,car,0.1
+396,555,car,677,truck,0.1
+396,555,car,680,car,0.9
+396,640,person,686,car,0.4
+396,660,car,677,truck,1.5
+397,2,car,8,car,0.1
+397,7,car,640,person,0.8
+397,10,car,11,car,0.1
+397,11,car,677,truck,1.9000000000000001
+397,260,person,640,person,1.3
+397,555,car,677,truck,0.1
+397,640,person,686,car,0.7000000000000001
+398,2,car,8,car,0.1
+398,7,car,686,car,0.1
+398,11,car,677,truck,0.9
+398,555,car,677,truck,0.1
+399,2,car,8,car,0.1
+399,7,car,686,car,0.1
+399,10,car,660,car,0.1
+399,11,car,677,truck,0.7000000000000001
+399,260,person,640,person,1.5
+399,325,traffic light,688,traffic light,0.9
+399,555,car,677,truck,0.1
+400,2,car,8,car,0.1
+400,7,car,640,person,0.7000000000000001
+400,7,car,686,car,0.1
+400,8,car,623,person,0.1
+400,8,car,676,person,0.5
+400,8,car,677,truck,0.9
+400,10,car,660,car,0.1
+400,11,car,677,truck,0.5
+400,260,person,677,truck,1.3
+400,325,traffic light,688,traffic light,0.7000000000000001
+400,555,car,677,truck,0.1
+400,640,person,677,truck,1.4000000000000001
+400,677,truck,686,car,1.4000000000000001
+401,7,car,640,person,0.4
+401,8,car,623,person,0.1
+401,8,car,676,person,0.30000000000000004
+401,8,car,677,truck,1.0
+401,11,car,677,truck,0.6000000000000001
+401,81,traffic light,680,car,1.3
+401,260,person,677,truck,1.6
+401,555,car,677,truck,0.1
+401,640,person,677,truck,1.7000000000000002
+401,640,person,686,car,0.4
+401,677,truck,698,person,0.9
+402,7,car,640,person,0.30000000000000004
+402,8,car,623,motorcycle,0.1
+402,8,car,676,person,0.30000000000000004
+402,8,car,677,truck,1.1
+402,10,car,660,car,0.1
+402,11,car,677,truck,0.6000000000000001
+402,640,person,677,truck,1.8
+402,640,person,686,car,0.5
+402,640,person,700,person,0.1
+402,677,truck,698,person,1.0
+403,7,car,640,person,0.6000000000000001
+403,8,car,623,motorcycle,0.1
+403,8,car,676,person,0.30000000000000004
+403,8,car,677,truck,1.4000000000000001
+403,11,car,677,truck,0.8
+403,81,traffic light,680,car,0.5
+403,260,person,640,person,1.0
+403,260,person,700,person,1.8
+403,640,person,686,car,1.0
+403,677,truck,698,person,1.2000000000000002
+404,7,car,640,person,0.9
+404,7,car,686,car,0.1
+404,7,car,700,person,1.1
+404,8,car,677,truck,2.0
+404,10,car,11,car,0.1
+404,11,car,677,truck,1.1
+404,260,person,640,person,0.8
+404,260,person,700,person,1.5
+404,677,truck,698,person,1.7000000000000002
+405,7,car,686,car,0.1
+405,7,car,700,person,0.7000000000000001
+405,11,car,677,truck,1.2000000000000002
+405,260,person,640,person,0.6000000000000001
+405,555,car,677,truck,0.1
+405,686,car,700,person,0.8
+406,7,car,640,person,1.9000000000000001
+406,7,car,700,person,1.4000000000000001
+406,11,car,677,truck,1.2000000000000002
+406,260,person,640,person,0.5
+406,555,car,688,traffic light,0.5
+406,686,car,700,person,1.3
+407,8,car,677,truck,1.8
+407,11,car,677,truck,0.9
+407,260,person,640,person,0.5
+407,260,person,700,person,2.0
+407,604,traffic light,677,truck,0.6000000000000001
+407,640,person,686,car,0.6000000000000001
+407,660,car,677,truck,1.0
+408,7,car,640,person,1.0
+408,7,car,686,car,0.1
+408,10,car,180,car,0.7000000000000001
+408,81,traffic light,677,truck,1.0
+408,260,person,640,person,0.5
+408,260,person,700,person,1.7000000000000002
+408,325,traffic light,604,traffic light,0.1
+408,555,car,641,car,0.1
+408,640,person,700,person,0.1
+408,677,truck,680,car,0.1
+409,7,car,686,car,0.1
+409,10,car,180,car,0.4
+409,260,person,640,person,0.6000000000000001
+409,260,person,700,person,2.0
+409,325,traffic light,604,traffic light,0.1
+409,677,car,680,car,0.1
+410,7,car,640,person,0.30000000000000004
+410,7,car,686,car,0.1
+410,8,car,623,car,0.1
+410,8,car,676,person,0.1
+410,10,car,180,car,0.30000000000000004
+410,81,traffic light,677,car,0.7000000000000001
+410,260,person,640,person,0.6000000000000001
+410,677,car,680,car,0.1
+411,7,car,640,person,0.4
+411,7,car,686,car,0.1
+411,10,car,180,car,0.30000000000000004
+411,10,car,660,car,0.1
+411,260,person,640,person,0.5
+411,555,car,677,truck,0.1
+411,660,car,677,truck,1.1
+412,7,car,640,person,0.6000000000000001
+412,10,car,677,truck,1.0
+412,11,car,677,truck,0.8
+412,180,car,677,truck,1.2000000000000002
+412,260,person,640,person,0.5
+412,260,person,700,person,1.7000000000000002
+412,555,car,677,truck,0.1
+412,660,car,677,truck,0.9
+413,10,car,677,truck,0.9
+413,11,car,677,truck,0.8
+413,180,car,677,truck,1.2000000000000002
+413,260,person,640,person,0.4
+413,260,person,700,person,1.5
+413,555,car,677,truck,0.1
+413,604,traffic light,677,truck,0.5
+413,660,car,677,truck,0.9
+414,8,car,676,person,0.1
+414,10,car,677,truck,1.5
+414,180,car,677,truck,1.9000000000000001
+414,260,person,640,person,0.30000000000000004
+414,260,person,700,person,1.3
+414,555,car,677,truck,0.1
+415,7,car,640,person,1.1
+415,7,car,700,person,1.3
+415,10,car,660,car,0.1
+415,10,car,677,truck,1.0
+415,260,person,640,person,0.30000000000000004
+415,260,person,700,person,1.3
+415,555,car,677,truck,0.1
+416,10,car,180,car,0.7000000000000001
+416,260,person,640,person,0.5
+417,10,car,180,car,0.5
+417,260,person,732,motorcycle,1.7000000000000002
+418,10,car,180,car,0.30000000000000004
+418,260,person,732,motorcycle,1.4000000000000001
+418,325,traffic light,677,truck,0.5
+418,640,person,700,person,0.1
+419,7,car,640,person,0.30000000000000004
+419,7,car,686,car,0.1
+419,7,car,700,person,0.5
+419,8,car,676,person,0.1
+419,10,car,677,truck,1.1
+419,81,traffic light,680,car,1.0
+419,325,traffic light,677,truck,0.5
+419,660,car,677,truck,1.0
+420,8,car,676,person,0.1
+420,8,car,698,person,1.5
+420,81,traffic light,680,car,1.8
+420,325,traffic light,604,traffic light,0.1
+420,325,traffic light,677,bus,0.5
+420,660,car,677,bus,1.1
+421,8,car,676,car,0.1
+421,8,car,698,car,0.9
+421,325,traffic light,604,traffic light,0.1
+421,325,traffic light,677,truck,0.4
+422,7,car,686,car,0.1
+422,8,car,676,car,0.1
+422,8,car,698,car,0.5
+422,81,traffic light,680,car,1.1
+422,260,person,640,person,0.4
+422,260,person,732,motorcycle,0.8
+423,7,car,686,car,0.1
+423,8,car,676,person,0.1
+423,8,car,698,motorcycle,0.6000000000000001
+423,325,traffic light,677,truck,0.30000000000000004
+423,604,traffic light,677,truck,0.30000000000000004
+423,640,person,700,person,0.1
+423,686,car,700,person,0.5
+424,7,car,686,car,0.1
+424,260,person,640,person,0.2
+424,325,traffic light,604,traffic light,0.1
+424,604,traffic light,677,truck,0.4
+424,640,person,686,car,0.4
+424,660,car,677,truck,0.9
+424,686,car,700,person,0.30000000000000004
+425,7,car,640,person,1.2000000000000002
+425,7,car,686,car,0.1
+425,7,car,700,person,0.8
+425,10,car,660,car,0.1
+425,260,person,640,person,0.30000000000000004
+425,640,person,686,car,1.4000000000000001
+425,660,car,677,truck,1.0
+425,686,car,700,person,0.8
+426,7,car,700,person,1.8
+426,8,car,771,person,0.1
+426,260,person,700,person,0.9
+426,325,traffic light,677,truck,0.4
+426,640,person,700,person,0.1
+426,660,car,677,truck,1.2000000000000002
+427,10,car,660,car,0.1
+427,640,person,700,person,0.1
+428,10,car,660,car,0.1
+428,260,person,732,person,0.4
+428,325,traffic light,677,truck,0.5
+428,640,person,686,car,0.5
+429,7,car,686,car,0.1
+429,10,car,660,car,0.1
+429,81,traffic light,680,car,1.8
+429,260,person,732,person,0.4
+429,325,traffic light,677,truck,0.5
+429,640,person,686,car,0.2
+429,686,car,700,person,0.9
+430,2,car,260,person,1.3
+430,7,car,686,car,0.1
+430,10,car,660,car,0.1
+430,81,traffic light,680,car,2.0
+430,180,car,677,truck,2.0
+430,260,person,732,person,0.5
+430,325,traffic light,604,traffic light,0.1
+430,325,traffic light,677,truck,0.5
+430,325,traffic light,779,traffic light,0.1
+430,640,person,686,car,0.2
+430,686,car,700,person,0.7000000000000001
+431,8,car,771,person,0.1
+431,260,person,640,person,0.1
+431,325,traffic light,677,truck,0.6000000000000001
+431,604,traffic light,677,truck,0.6000000000000001
+432,8,car,771,person,0.1
+432,8,car,773,person,0.8
+432,260,person,640,person,0.1
+432,325,traffic light,604,traffic light,0.1
+432,604,traffic light,779,traffic light,0.1
+433,8,car,698,bicycle,0.6000000000000001
+433,8,car,771,person,0.1
+433,8,car,773,person,0.6000000000000001
+433,260,person,640,person,0.1
+433,260,person,700,person,1.0
+433,325,traffic light,604,traffic light,0.1
+433,604,traffic light,779,traffic light,0.1
+434,2,car,260,person,1.0
+434,7,car,686,car,0.1
+434,8,car,698,motorcycle,0.5
+434,8,car,771,person,0.1
+434,8,car,773,person,0.5
+434,604,traffic light,779,traffic light,0.1
+434,640,person,686,car,0.1
+435,2,car,260,person,1.0
+435,8,car,698,bicycle,0.5
+435,8,car,771,person,0.1
+435,8,car,773,person,0.5
+435,10,car,821,car,1.2000000000000002
+435,81,traffic light,680,car,1.7000000000000002
+435,640,person,686,car,0.1
+435,660,car,821,car,1.2000000000000002
+435,688,traffic light,779,traffic light,0.6000000000000001
+435,724,car,821,car,2.0
+436,2,car,260,person,1.1
+436,7,car,640,person,0.1
+436,7,car,700,person,1.0
+436,8,car,771,person,0.1
+436,8,car,773,person,0.6000000000000001
+436,81,traffic light,680,car,1.7000000000000002
+436,325,traffic light,779,traffic light,0.1
+436,640,person,686,car,0.1
+436,660,car,821,car,1.3
+436,686,car,700,person,0.8
+437,7,car,686,car,0.1
+437,8,car,771,person,0.1
+437,8,car,773,person,0.5
+437,260,person,640,person,0.1
+437,325,traffic light,779,traffic light,0.1
+437,686,car,700,person,0.8
+438,7,car,700,person,0.6000000000000001
+438,8,car,771,person,0.1
+438,8,car,773,person,0.4
+438,260,person,640,person,0.1
+438,260,person,700,person,0.6000000000000001
+438,325,traffic light,779,traffic light,0.1
+438,688,traffic light,779,traffic light,1.1
+439,7,car,700,person,0.2
+439,8,car,836,car,0.1
+439,260,person,640,person,0.1
+439,260,person,700,person,0.6000000000000001
+439,688,traffic light,779,traffic light,1.2000000000000002
+440,7,car,640,person,0.1
+440,7,car,686,car,0.1
+440,7,car,700,person,0.1
+440,8,car,771,person,0.1
+440,8,car,836,person,0.1
+440,260,person,640,person,0.1
+440,325,traffic light,688,traffic light,1.1
+440,640,person,836,person,1.9000000000000001
+440,660,car,677,truck,1.5
+440,688,traffic light,779,traffic light,1.0
+441,7,car,640,person,0.1
+441,7,car,686,car,0.1
+441,8,car,698,bicycle,0.30000000000000004
+441,8,car,771,person,0.1
+441,8,car,836,car,0.1
+441,10,car,180,car,0.1
+441,260,person,836,car,2.0
+441,325,traffic light,779,traffic light,0.1
+441,686,car,700,person,0.1
+442,7,car,686,car,0.1
+442,8,car,698,bicycle,0.30000000000000004
+442,8,car,771,person,0.1
+442,8,car,773,person,0.2
+442,8,car,836,car,0.1
+442,10,car,180,car,0.1
+442,325,traffic light,779,traffic light,0.1
+442,640,person,686,car,0.1
+442,686,car,700,person,0.1
+443,8,car,698,motorcycle,0.2
+443,10,car,180,car,0.1
+443,260,person,640,person,0.1
+444,8,car,698,motorcycle,0.2
+444,10,car,180,car,0.1
+444,260,person,640,person,0.1
+445,8,car,698,motorcycle,0.2
+445,8,car,773,person,0.2
+445,10,car,180,car,0.1
+445,180,car,660,car,1.0
+445,325,traffic light,779,traffic light,0.1
+445,640,person,700,person,0.1
+446,8,car,698,motorcycle,0.1
+446,8,car,771,person,0.1
+446,8,car,773,person,0.1
+446,10,car,180,car,0.1
+446,180,car,660,car,2.0
+446,260,person,640,person,0.1
+446,325,traffic light,779,traffic light,0.1
+446,555,car,852,car,0.1
+446,680,car,734,car,0.1
+446,680,car,821,car,0.1
+446,686,car,700,person,0.2
+446,688,traffic light,779,traffic light,1.3
+447,8,car,698,motorcycle,0.1
+447,8,car,771,person,0.1
+447,8,car,773,person,0.1
+447,10,car,180,car,0.1
+447,81,traffic light,857,car,0.7000000000000001
+447,260,person,640,person,0.1
+447,555,car,852,car,0.1
+447,680,car,734,car,0.1
+447,680,car,857,car,0.1
+448,7,car,640,person,0.1
+448,7,car,686,car,0.1
+448,7,car,700,person,0.2
+448,8,car,698,motorcycle,0.1
+448,8,car,771,person,0.1
+448,8,car,773,person,0.1
+448,10,car,180,car,0.1
+448,10,car,660,car,0.1
+448,260,person,836,car,1.4000000000000001
+448,660,car,858,car,0.7000000000000001
+449,7,car,640,person,0.1
+449,7,car,686,car,0.1
+449,325,traffic light,858,car,0.9
+449,555,car,858,car,0.1
+449,640,person,686,car,0.1
+449,660,car,858,car,1.2000000000000002
+450,7,car,640,person,0.1
+450,325,traffic light,779,traffic light,0.1
+450,325,traffic light,857,car,1.6
+450,555,car,858,car,0.1
+450,640,person,686,car,0.1
+451,7,car,640,person,0.1
+451,8,car,773,person,0.1
+451,325,traffic light,779,traffic light,0.1
+451,325,traffic light,857,car,1.5
+451,555,car,858,car,0.1
+451,680,car,857,car,0.1
+451,680,car,858,car,0.2
+451,688,traffic light,779,traffic light,0.5
+452,7,car,640,person,0.1
+452,8,car,698,bicycle,0.1
+452,8,car,771,person,0.1
+452,8,car,773,person,0.1
+452,325,traffic light,779,traffic light,0.1
+452,680,car,858,car,0.1
+452,688,traffic light,779,traffic light,0.30000000000000004
+453,8,car,698,motorcycle,0.1
+453,8,car,771,person,0.1
+453,8,car,773,person,0.1
+453,260,person,640,motorcycle,0.1
+453,325,traffic light,779,traffic light,0.1
+453,680,car,858,car,0.1
+453,688,traffic light,779,traffic light,0.30000000000000004
+454,8,car,698,motorcycle,0.1
+454,8,car,771,person,0.1
+454,8,car,773,person,0.1
+454,260,person,640,person,0.1
+454,325,traffic light,779,traffic light,0.1
+454,680,car,858,car,0.1
+454,688,traffic light,779,traffic light,0.2
+455,8,car,698,motorcycle,0.1
+455,8,car,771,person,0.1
+455,8,car,773,person,0.1
+455,260,person,640,motorcycle,0.1
+455,325,traffic light,779,traffic light,0.1
+455,660,car,677,car,1.6
+455,660,car,858,car,1.0
+455,680,car,858,car,0.1
+455,688,traffic light,779,traffic light,0.2
+456,8,car,698,motorcycle,0.1
+456,8,car,771,person,0.1
+456,8,car,773,car,0.1
+456,260,person,640,motorcycle,0.1
+456,660,car,858,car,1.0
+456,688,traffic light,779,traffic light,0.30000000000000004
+457,8,car,771,person,0.1
+457,325,traffic light,779,traffic light,0.1
+457,660,car,858,car,1.2000000000000002
+457,688,traffic light,779,traffic light,0.6000000000000001
+457,771,person,871,motorcycle,1.3
+458,8,car,771,person,0.1
+458,180,car,877,car,1.2000000000000002
+458,680,car,858,car,0.1
+458,771,person,871,motorcycle,1.2000000000000002
+459,8,car,771,person,0.1
+459,10,car,180,car,0.1
+459,680,car,858,car,0.1
+459,771,person,871,motorcycle,1.2000000000000002
+460,680,car,858,car,0.1
+460,724,car,881,motorcycle,2.0
+461,260,person,698,motorcycle,1.7000000000000002
+461,325,traffic light,779,traffic light,0.1
+461,724,car,881,motorcycle,2.0
+462,260,person,698,person,1.6
+462,325,traffic light,779,traffic light,0.1
+462,688,traffic light,779,traffic light,1.1
+463,8,car,698,person,0.1
+463,81,traffic light,680,car,1.9000000000000001
+463,640,person,771,person,1.4000000000000001
+463,688,traffic light,779,traffic light,1.4000000000000001
+463,771,person,871,motorcycle,1.1
+464,7,car,700,person,0.1
+464,8,car,698,motorcycle,0.1
+464,8,car,771,person,0.1
+464,8,car,886,person,0.1
+464,260,person,698,motorcycle,2.0
+464,260,person,886,person,2.0
+464,640,person,771,person,1.4000000000000001
+464,640,person,886,person,1.3
+464,771,person,871,motorcycle,0.8
+464,871,motorcycle,886,person,1.5
+465,7,car,640,person,0.1
+465,7,car,700,person,0.1
+465,8,car,771,person,0.1
+465,8,car,886,motorcycle,0.1
+465,260,person,886,motorcycle,1.9000000000000001
+465,325,traffic light,779,traffic light,0.1
+465,555,car,852,car,0.1
+465,724,car,771,person,1.6
+465,771,person,871,motorcycle,0.8
+465,858,car,888,car,0.1
+466,7,car,640,person,0.1
+466,8,car,698,car,0.1
+466,8,car,771,person,0.1
+466,8,car,886,motorcycle,0.1
+466,260,person,886,motorcycle,2.0
+466,555,car,852,car,0.1
+466,724,car,771,person,2.0
+466,771,person,871,motorcycle,0.7000000000000001
+467,7,car,640,person,0.1
+467,7,car,700,person,0.1
+467,8,car,771,person,0.1
+467,8,car,877,car,0.1
+467,724,car,771,person,1.8
+467,771,person,871,motorcycle,0.6000000000000001
+468,7,car,640,person,0.1
+468,7,car,700,person,0.1
+468,8,car,180,car,1.6
+468,8,car,771,person,0.1
+468,8,car,877,car,0.1
+468,555,car,852,car,0.1
+468,640,person,771,person,2.0
+468,771,person,871,motorcycle,0.6000000000000001
+469,7,car,640,person,0.1
+469,7,car,700,person,0.1
+469,8,car,180,car,1.8
+469,8,car,771,person,0.1
+469,8,car,877,car,0.1
+469,555,car,688,traffic light,0.6000000000000001
+469,555,car,852,car,0.1
+469,640,person,771,person,2.0
+469,771,person,871,motorcycle,0.7000000000000001
+470,7,car,640,person,0.1
+470,8,car,180,car,1.5
+470,8,car,877,car,0.1
+470,555,car,688,traffic light,0.4
+470,555,car,852,car,0.1
+471,7,car,640,person,0.1
+471,555,car,852,car,0.1
+472,10,car,660,car,0.1
+472,260,person,640,person,1.5
+472,555,car,852,car,0.1
+472,724,car,871,motorcycle,1.0
+473,7,car,700,person,0.1
+473,10,car,180,car,0.1
+473,555,car,852,car,0.1
+473,640,person,700,person,0.1
+474,7,car,700,person,0.1
+474,8,car,877,car,0.1
+474,260,person,640,person,1.3
+474,325,traffic light,555,car,1.1
+474,555,car,779,traffic light,0.9
+474,555,car,852,car,0.1
+474,640,person,700,person,0.1
+475,7,car,700,person,0.1
+475,8,car,877,car,0.1
+475,325,traffic light,779,traffic light,0.1
+475,640,person,700,person,0.1
+476,8,car,877,car,0.1
+476,325,traffic light,779,traffic light,0.1
+476,555,car,852,car,0.1
+476,724,motorcycle,871,motorcycle,0.9
+477,8,car,877,car,0.1
+477,325,traffic light,779,traffic light,0.1
+477,555,car,852,car,0.1
+477,604,traffic light,779,traffic light,0.1
+477,724,motorcycle,871,motorcycle,1.2000000000000002
+478,7,car,700,person,0.1
+478,8,car,877,car,0.1
+478,555,car,852,car,0.1
+478,640,person,724,motorcycle,1.7000000000000002
+478,724,motorcycle,871,person,1.1
+479,7,car,640,person,0.1
+479,7,car,700,person,0.1
+479,8,car,911,person,0.1
+479,325,traffic light,779,traffic light,0.1
+479,555,car,852,car,0.1
+479,604,traffic light,779,traffic light,0.1
+479,640,person,911,person,1.7000000000000002
+479,724,motorcycle,911,person,0.9
+480,7,car,640,person,0.1
+480,7,car,700,person,0.1
+480,325,traffic light,779,traffic light,0.1
+480,555,car,852,car,0.1
+480,604,traffic light,779,traffic light,0.1
+480,871,person,911,person,0.5
+481,7,car,640,person,0.1
+481,7,car,700,person,0.1
+481,8,car,10,car,1.1
+481,10,car,877,motorcycle,0.7000000000000001
+481,325,traffic light,779,traffic light,0.1
+481,555,car,688,traffic light,0.4
+481,555,car,852,car,0.1
+481,604,traffic light,688,traffic light,1.1
+481,604,traffic light,779,traffic light,0.1
+482,8,car,10,car,1.3
+482,10,car,877,motorcycle,0.6000000000000001
+482,81,traffic light,680,car,2.0
+482,325,traffic light,779,traffic light,0.1
+482,555,car,688,traffic light,0.5
+482,555,car,852,car,0.1
+482,604,traffic light,688,traffic light,1.0
+482,688,traffic light,779,traffic light,0.2
+483,7,car,724,motorcycle,1.0
+483,10,car,877,car,0.5
+483,81,traffic light,680,car,1.9000000000000001
+483,325,traffic light,604,traffic light,0.1
+483,325,traffic light,779,traffic light,0.1
+483,555,car,688,traffic light,1.1
+483,555,car,852,car,0.1
+483,604,traffic light,688,traffic light,1.0
+483,688,traffic light,779,traffic light,0.2
+484,555,car,852,car,0.1
+488,8,car,877,car,0.1
+488,640,person,871,person,1.0
+488,700,person,871,person,1.7000000000000002
+489,8,car,877,car,0.1
+489,640,person,871,person,1.4000000000000001
+490,8,car,877,car,0.1
+491,7,car,935,car,0.1
+491,8,car,877,car,0.1
+491,555,car,852,car,0.1
+491,700,person,935,car,0.1
+492,8,car,877,car,0.1
+494,8,car,877,car,0.1
+495,8,car,877,car,0.1
+495,555,car,852,car,0.1
+496,7,car,700,person,0.1
+496,7,car,935,car,0.1
+496,325,traffic light,688,traffic light,2.0
+496,555,car,852,car,0.1
+497,7,car,700,person,0.1
+497,325,traffic light,688,traffic light,1.4000000000000001
+497,555,car,852,car,0.1
+499,555,car,688,traffic light,0.8
+501,81,traffic light,680,car,1.8
+501,180,car,660,car,1.0
+502,180,car,660,car,1.0
+502,555,car,852,car,0.1
+502,680,car,952,car,0.30000000000000004
+503,81,traffic light,952,car,0.9
+503,555,car,852,car,0.1
+503,700,person,935,car,0.1
+504,555,car,852,car,0.1
+504,680,car,952,car,0.6000000000000001
+505,81,traffic light,952,car,1.0
+505,555,car,852,car,0.1
+506,81,traffic light,952,car,0.8
+506,260,person,966,person,1.1
+506,555,car,852,car,0.1
+506,952,car,967,car,0.9
+507,81,traffic light,952,car,0.6000000000000001
+507,555,car,852,car,0.1
+507,952,car,967,car,0.7000000000000001
+508,81,traffic light,952,car,0.7000000000000001
+508,952,car,967,car,0.7000000000000001
+509,952,car,967,car,0.7000000000000001
+510,680,car,967,car,0.6000000000000001
+510,952,car,967,car,0.7000000000000001
+511,260,person,966,person,1.7000000000000002
+511,555,car,852,car,0.1
+512,260,person,966,person,1.4000000000000001
+512,700,person,935,car,0.1
+514,325,traffic light,604,traffic light,0.1
+515,325,traffic light,604,traffic light,0.1
+515,555,car,852,car,0.1
+516,260,person,966,person,0.9
+516,555,car,852,car,0.1
+521,180,car,660,car,0.30000000000000004
+521,978,motorcycle,995,person,2.0
+522,180,car,660,car,0.2
+522,978,motorcycle,995,person,0.9
+523,180,car,660,car,0.2
+523,978,motorcycle,995,person,0.9
+525,81,traffic light,982,car,1.2000000000000002
+525,325,traffic light,604,traffic light,0.1
+525,325,traffic light,688,traffic light,0.4
+526,81,traffic light,982,car,1.7000000000000002
+526,325,traffic light,604,traffic light,0.1
+526,325,traffic light,688,traffic light,0.5
+526,555,car,852,car,0.1
+526,978,motorcycle,986,car,1.5
+526,986,car,995,person,0.5
+527,325,traffic light,604,traffic light,0.1
+527,325,traffic light,688,traffic light,1.0
+528,325,traffic light,604,traffic light,0.1
+528,325,traffic light,688,traffic light,0.4
+529,325,traffic light,688,traffic light,0.2
+529,555,car,604,traffic light,1.0
+529,555,car,688,traffic light,0.6000000000000001
+529,604,traffic light,688,traffic light,0.5
+529,978,motorcycle,995,person,1.7000000000000002
+530,8,car,555,car,1.8
+530,325,traffic light,688,traffic light,0.1
+530,555,car,688,traffic light,0.4
+530,555,car,852,car,0.1
+531,8,car,555,car,1.6
+531,260,person,1013,car,0.1
+531,555,car,688,traffic light,0.4
+531,555,car,852,car,0.1
+532,260,person,1013,car,0.1
+532,555,car,688,traffic light,1.0
+532,555,car,852,car,0.1
+533,260,person,935,car,0.9
+533,555,car,852,car,0.1
+536,555,car,852,car,0.1
+537,555,car,852,car,0.1
+538,555,car,1034,car,0.1
+538,982,car,1034,car,0.6000000000000001
+539,325,traffic light,1034,car,0.30000000000000004
+539,555,car,1034,car,0.1
+539,660,car,1034,car,0.5
+539,688,traffic light,1034,car,0.30000000000000004
+540,325,traffic light,1034,car,0.30000000000000004
+540,555,car,1034,car,0.1
+540,660,car,1034,car,0.6000000000000001
+540,955,car,1034,car,0.9
+540,997,car,1034,car,0.9
+541,81,traffic light,982,car,1.9000000000000001
+541,997,car,1034,car,1.7000000000000002
+542,81,traffic light,982,car,1.4000000000000001
+542,858,car,952,car,0.5
+543,81,traffic light,982,car,2.0
+543,997,car,1034,car,0.9
+544,325,traffic light,1034,car,0.4
+544,978,motorcycle,1056,person,0.1
+544,995,person,1056,person,1.7000000000000002
+544,997,car,1034,car,0.7000000000000001
+545,81,traffic light,1057,car,0.8
+545,325,traffic light,1034,car,0.4
+545,997,car,1034,car,0.7000000000000001
+546,81,traffic light,1057,car,0.8
+546,997,car,1034,car,0.7000000000000001
+547,325,traffic light,1034,car,0.4
+547,555,car,852,car,0.1
+547,955,car,1034,car,0.8
+547,997,car,1034,car,0.7000000000000001
+548,997,car,1034,car,0.7000000000000001
+549,180,car,660,car,0.1
+549,180,car,955,car,0.7000000000000001
+549,325,traffic light,688,traffic light,0.2
+549,325,traffic light,1034,car,0.4
+549,955,car,1067,car,1.6
+549,978,motorcycle,1056,person,0.1
+550,325,traffic light,688,traffic light,0.1
+550,325,traffic light,1034,car,0.4
+550,555,car,852,car,0.1
+550,982,car,1057,car,0.2
+550,997,car,1034,car,0.8
+551,325,traffic light,688,traffic light,0.1
+551,555,car,852,car,0.1
+551,955,car,997,car,1.2000000000000002
+551,978,motorcycle,1056,person,0.1
+551,982,car,1057,car,0.2
+552,325,traffic light,688,traffic light,0.1
+552,555,car,852,car,0.1
+552,955,car,1067,car,0.5
+552,978,motorcycle,1056,person,0.1
+552,982,car,1057,car,0.2
+553,555,car,852,car,0.1
+553,978,motorcycle,1056,person,0.1
+553,982,car,1057,car,0.1
+554,325,traffic light,688,traffic light,0.1
+554,955,car,1067,car,0.4
+554,982,car,1057,car,0.1
+555,955,car,1067,car,0.6000000000000001
+555,982,car,1057,car,0.1
+556,325,traffic light,688,traffic light,0.1
+556,555,car,852,car,0.1
+556,978,person,995,person,0.6000000000000001
+556,978,person,1056,motorcycle,0.1
+556,982,car,1057,car,0.1
+557,555,car,852,car,0.1
+557,955,car,997,car,0.7000000000000001
+557,978,motorcycle,995,person,0.6000000000000001
+557,978,motorcycle,1056,person,0.1
+558,180,car,1067,car,0.8
+558,260,person,1088,motorcycle,0.8
+558,978,motorcycle,1056,person,0.1
+559,180,car,955,car,1.1
+559,180,car,1067,car,0.5
+559,978,motorcycle,1056,person,0.1
+560,180,car,955,car,0.5
+560,180,car,1067,car,0.5
+560,555,car,852,car,0.1
+560,978,motorcycle,1056,person,0.1
+560,995,person,1056,person,0.8
+561,978,motorcycle,1056,person,0.1
+561,995,person,1056,person,0.7000000000000001
+562,955,car,1067,car,0.6000000000000001
+562,978,motorcycle,1056,person,0.1
+562,995,person,1056,person,0.7000000000000001
+563,81,traffic light,982,car,1.5
+563,555,car,852,car,0.1
+563,978,motorcycle,1056,person,0.1
+563,997,car,1057,car,0.9
+563,1057,car,1067,car,1.2000000000000002
+564,81,traffic light,982,car,1.2000000000000002
+564,555,car,852,car,0.1
+564,978,motorcycle,1056,person,0.1
+564,995,motorcycle,1056,person,0.4
+564,997,car,1057,car,1.2000000000000002
+565,81,traffic light,982,car,1.2000000000000002
+565,555,car,852,car,0.1
+565,978,motorcycle,1056,person,0.1
+565,997,car,1057,car,1.2000000000000002
+566,81,traffic light,982,car,1.4000000000000001
+566,978,motorcycle,995,motorcycle,0.30000000000000004
+566,978,motorcycle,1056,person,0.1
+567,81,traffic light,982,car,1.6
+569,1056,person,1065,motorcycle,1.0
+570,1056,person,1065,motorcycle,1.4000000000000001
+571,81,traffic light,982,car,1.2000000000000002
+571,1056,person,1065,motorcycle,0.5
+572,81,traffic light,982,car,1.2000000000000002
+572,260,person,1088,person,0.1
+572,978,motorcycle,995,motorcycle,0.1
+572,978,motorcycle,1056,person,0.1
+573,260,person,1088,person,0.1
+573,978,motorcycle,995,motorcycle,0.1
+573,978,motorcycle,1056,person,0.1
+574,260,person,1088,person,0.1
+574,555,car,852,car,0.1
+574,978,motorcycle,995,motorcycle,0.1
+574,978,motorcycle,1056,person,0.1
+574,978,motorcycle,1127,person,1.2000000000000002
+575,260,person,935,car,1.9000000000000001
+575,978,motorcycle,995,motorcycle,0.1
+575,978,motorcycle,1127,person,1.3
+575,986,motorcycle,995,motorcycle,0.1
+576,260,person,935,car,1.5
+576,978,motorcycle,995,motorcycle,0.1
+576,978,motorcycle,1056,person,0.1
+576,978,motorcycle,1127,person,0.9
+577,260,person,935,car,1.7000000000000002
+577,555,car,852,car,0.1
+577,978,motorcycle,995,motorcycle,0.1
+577,978,motorcycle,1056,person,0.1
+577,978,motorcycle,1127,person,1.0
+578,260,person,995,motorcycle,1.3
+578,978,motorcycle,995,motorcycle,0.1
+579,8,car,260,person,0.6000000000000001
+579,260,person,986,car,0.9
+579,260,person,995,person,0.9
+579,955,car,1067,car,0.5
+580,955,car,1067,car,0.4
+580,978,motorcycle,1056,person,0.1
+580,978,motorcycle,1127,person,1.6
+581,955,car,1067,car,0.5
+581,978,motorcycle,1127,person,1.2000000000000002
+583,81,traffic light,1140,car,0.2
+583,555,car,852,car,0.1
+583,978,motorcycle,1056,person,0.1
+584,8,car,260,person,0.6000000000000001
+584,81,traffic light,1140,car,0.2
+584,260,person,986,motorcycle,1.1
+584,555,car,852,car,0.1
+584,978,motorcycle,1056,person,0.1
+585,8,car,260,person,0.6000000000000001
+585,81,traffic light,1140,car,0.30000000000000004
+585,260,person,995,person,1.3
+586,8,car,260,person,0.7000000000000001
+586,81,traffic light,1140,car,0.5
+586,260,person,995,person,1.5
+586,555,car,852,car,0.1
+586,978,motorcycle,1056,person,0.1
+587,260,person,995,person,1.4000000000000001
+587,555,car,852,car,0.1
+587,978,motorcycle,1056,person,0.1
+588,260,person,995,person,1.1
+588,555,car,852,car,0.1
+588,978,motorcycle,1056,person,0.1
+588,978,motorcycle,1127,person,0.6000000000000001
+589,260,person,995,person,1.0
+589,978,motorcycle,1056,person,0.1
+590,978,motorcycle,1056,person,0.1
+590,978,motorcycle,1127,person,0.4
+591,555,car,852,car,0.1
+591,978,motorcycle,1056,person,0.1
+591,978,motorcycle,1127,person,0.4
+591,1056,person,1127,person,0.9
+592,978,motorcycle,1056,person,0.1
+592,978,motorcycle,1127,person,0.5
+593,555,car,852,car,0.1
+593,978,motorcycle,1056,person,0.1
+593,978,motorcycle,1127,person,0.5
+596,1067,car,1153,car,0.1
+597,555,car,852,car,0.1
+597,955,car,1153,car,0.1
+597,978,motorcycle,1056,person,0.1
+597,978,motorcycle,1127,person,0.2
+597,1067,car,1153,car,0.1
+598,955,car,1153,car,0.1
+598,978,motorcycle,1056,person,0.1
+598,978,motorcycle,1127,person,0.1
+599,555,car,852,car,0.1
+599,978,motorcycle,1056,person,0.1
+599,978,motorcycle,1127,person,0.1
+601,260,person,995,motorcycle,0.2
+601,260,person,1173,motorcycle,1.5
+603,978,motorcycle,1056,person,0.1
+604,978,motorcycle,1056,person,0.1
+605,260,person,1173,motorcycle,0.9
+605,978,motorcycle,1056,person,0.1
+606,260,person,1173,motorcycle,0.9
+606,978,motorcycle,1056,person,0.1
+607,955,car,1153,car,0.1
+607,1067,car,1153,car,0.1
+608,260,person,1173,person,0.9
+608,955,car,1153,car,0.1
+608,978,motorcycle,1056,person,0.1
+608,1067,car,1153,car,0.1
+609,555,car,852,car,0.1
+609,955,car,1153,car,0.1
+609,978,motorcycle,1056,person,0.1
+609,1067,car,1153,car,0.1
+610,955,car,1153,car,0.1
+611,260,person,1190,car,0.1
+611,978,motorcycle,1056,person,0.1
+612,978,motorcycle,1056,person,0.1
+613,260,person,1190,car,0.1
+613,555,car,852,car,0.1
+613,978,motorcycle,1056,person,0.1
+613,1056,person,1193,car,1.6
+614,955,car,1153,car,0.1
+614,1067,car,1153,car,0.1
+615,260,person,1190,car,0.1
+615,955,car,1153,car,0.1
+615,1067,car,1153,car,0.1
+616,260,person,1190,car,0.1
+616,955,car,1153,car,0.1
+616,1067,car,1153,car,0.1
+617,260,person,1190,car,0.1
+617,555,car,852,car,0.1
+617,955,car,1153,car,0.1
+617,1067,car,1153,car,0.1
+618,260,person,1190,car,0.1
+618,955,car,1153,car,0.1
+618,1067,car,1153,car,0.1
+619,955,car,1153,car,0.1
+619,1067,car,1153,car,0.1
+620,955,car,1153,car,0.1
+620,1067,car,1153,car,0.1
+622,555,car,1242,car,0.1
+622,852,car,1242,car,0.1
+622,1067,car,1153,car,0.1
+622,1067,car,1193,car,0.1
+623,555,car,1242,car,0.1
+623,955,car,1067,car,0.7000000000000001
+623,1067,car,1153,car,0.1
+623,1067,car,1193,car,0.1
+624,555,car,1242,car,0.1
+624,555,car,1245,car,0.1
+625,555,car,1242,car,0.1
+625,555,car,1245,car,0.1
+626,1067,car,1153,car,0.1
+627,260,person,1235,person,1.9000000000000001
+627,555,car,1242,car,0.1
+627,955,car,1242,car,1.1
+627,997,car,1242,car,1.0
+627,1193,car,1242,car,1.4000000000000001
+628,260,person,1235,person,1.7000000000000002
+628,555,car,1242,car,0.1
+628,955,car,1242,car,0.9
+628,978,motorcycle,1242,car,1.5
+628,997,car,1242,car,0.8
+629,260,person,1235,person,1.6
+629,555,car,1242,car,0.1
+629,955,car,1242,car,1.0
+629,978,motorcycle,1242,car,1.7000000000000002
+629,997,car,1242,car,0.9
+630,325,traffic light,1242,car,0.5
+630,935,car,1235,person,2.0
+630,955,car,1242,car,1.0
+630,978,motorcycle,1235,person,0.4
+630,978,motorcycle,1242,car,1.6
+630,997,car,1242,car,0.8
+630,1067,car,1242,car,1.2000000000000002
+632,325,traffic light,1242,car,0.5
+632,555,car,852,car,0.1
+632,955,car,1242,car,1.0
+633,555,car,852,car,0.1
+633,1067,car,1265,person,0.1
+634,555,car,852,car,0.1
+634,955,car,1153,car,0.1
+634,1067,car,1153,car,0.1
+635,555,car,852,car,0.1
+636,325,traffic light,1242,car,0.4
+636,555,car,852,car,0.1
+637,325,traffic light,1242,car,0.5
+637,555,car,852,car,0.1
+638,325,traffic light,1242,car,0.5
+638,555,car,852,car,0.1
+640,260,person,1173,car,0.1
+640,555,car,852,car,0.1
+641,260,person,1173,car,0.1
+642,260,person,935,car,1.7000000000000002
+642,1242,car,1288,car,1.0
+645,555,car,852,car,0.1
+646,1288,car,1289,car,1.4000000000000001
+647,555,car,852,car,0.1
+648,260,person,1294,person,2.0
+648,955,car,1153,car,0.1
+648,1153,car,1289,car,1.9000000000000001
+649,260,person,1261,person,1.6
+649,260,person,1294,person,1.4000000000000001
+650,180,car,260,person,0.6000000000000001
+650,260,person,1265,person,2.0
+650,260,person,1294,person,1.0
+650,555,car,852,car,0.1
+651,180,car,260,person,0.6000000000000001
+651,260,person,1265,person,1.9000000000000001
+651,260,person,1294,person,0.8
+652,555,car,852,car,0.1
+653,555,car,852,car,0.1
+654,555,car,852,car,0.1
+655,325,traffic light,555,car,0.6000000000000001
+655,555,car,852,car,0.1
+656,180,car,260,person,0.5
+656,260,person,1294,person,0.8
+656,325,traffic light,555,car,1.2000000000000002
+656,555,car,852,car,0.1
+656,978,motorcycle,1067,car,2.0
+657,180,car,260,person,0.30000000000000004
+657,260,person,1294,person,0.7000000000000001
+657,555,car,852,car,0.1
+657,978,motorcycle,1067,car,1.9000000000000001
+658,180,car,260,person,0.30000000000000004
+658,260,person,1294,person,0.7000000000000001
+658,978,motorcycle,1067,car,1.7000000000000002
+661,325,traffic light,1315,car,1.8
+661,555,car,852,car,0.1
+661,555,car,1315,car,1.0
+662,555,car,852,car,0.1
+663,180,car,260,person,0.30000000000000004
+664,180,car,260,person,0.30000000000000004
+665,180,car,260,person,0.30000000000000004
+665,260,person,1265,person,1.5
+666,81,traffic light,1301,car,1.0
+667,81,traffic light,1301,car,1.0
+667,555,car,852,car,0.1
+667,978,motorcycle,1067,car,1.7000000000000002
+668,81,traffic light,1301,car,0.9
+668,978,motorcycle,1067,car,1.3
+669,81,traffic light,1301,car,0.8
+669,978,motorcycle,1067,car,1.5
+670,555,car,852,car,0.1
+670,978,motorcycle,1067,car,1.5
