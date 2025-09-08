@@ -12,9 +12,4 @@ __pycache__/
 .vscode/
 .idea/
 
-# Large data files - We manage these manually and don't track them in Git
-# To track a specific small data file, you can add it with `git add -f data/path/to/file`
-#data/raw/*.mp4
-#output/*.csv
-
 src/__pycache__/
